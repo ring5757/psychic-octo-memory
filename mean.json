@@ -1839,5 +1839,3253 @@
     "past": "(~을) 지향하게 했다, 방향을 잡았다",
     "progressive": "(~을) 지향하게 하고 있는, 방향을 잡고 있는",
     "pastParticiple": "(~이) 지향된, 방향이 잡힌"
+  },
+  "outline": {
+    "base": "윤곽을 그리다, 개요를 잡다",
+    "present": "윤곽을 그린다, 개요를 잡는다",
+    "past": "윤곽을 그렸다, 개요를 잡았다",
+    "progressive": "윤곽을 그리고 있는, 개요를 잡고 있는",
+    "pastParticiple": "윤곽이 그려진, 개요가 잡힌"
+  },
+  "post": {
+    "base": "게시하다, 발송하다",
+    "present": "게시한다, 발송한다",
+    "past": "게시했다, 발송했다",
+    "progressive": "게시하고 있는, 발송하고 있는",
+    "pastParticiple": "게시된, 발송된"
+  },
+  "position": {
+    "base": "~에 위치시키다, 자리 잡다",
+    "present": "~에 위치시킨다, 자리 잡는다",
+    "past": "~에 위치시켰다, 자리 잡았다",
+    "progressive": "~에 위치시키고 있는, 자리 잡고 있는",
+    "pastParticiple": "~에 위치된, 자리 잡은"
+  },
+  "plan": {
+    "base": "계획하다",
+    "present": "계획한다",
+    "past": "계획했다",
+    "progressive": "계획하고 있는",
+    "pastParticiple": "계획된"
+  },
+  "place": {
+    "base": "두다, 배치하다",
+    "present": "둔다, 배치한다",
+    "past": "뒀다, 배치했다",
+    "progressive": "두고 있는, 배치하고 있는",
+    "pastParticiple": "놓여진, 배치된"
+  },
+  "pioneer": {
+    "base": "개척하다, 선도하다",
+    "present": "개척한다, 선도한다",
+    "past": "개척했다, 선도했다",
+    "progressive": "개척하고 있는, 선도하고 있는",
+    "pastParticiple": "개척된, 선도된"
+  },
+  "persuade": {
+    "base": "설득하다",
+    "present": "설득한다",
+    "past": "설득했다",
+    "progressive": "설득하고 있는",
+    "pastParticiple": "설득된"
+  },
+  "perform": {
+    "base": "수행하다, 공연하다",
+    "present": "수행한다, 공연한다",
+    "past": "수행했다, 공연했다",
+    "progressive": "수행하고 있는, 공연하고 있는",
+    "pastParticiple": "수행된, 공연된"
+  },
+  "patent": {
+    "base": "특허를 내다",
+    "present": "특허를 낸다",
+    "past": "특허를 냈다",
+    "progressive": "특허를 내고 있는",
+    "pastParticiple": "특허받은"
+  },
+  "oversee": {
+    "base": "감독하다, 두루 살피다",
+    "present": "감독한다, 두루 살핀다",
+    "past": "감독했다, 두루 살폈다",
+    "progressive": "감독하고 있는, 두루 살피고 있는",
+    "pastParticiple": "감독된, 두루 살핀"
+  },
+  "overlook": {
+    "base": "간과하다, 내려다보다",
+    "present": "간과한다, 내려다본다",
+    "past": "간과했다, 내려다봤다",
+    "progressive": "간과하고 있는, 내려다보고 있는",
+    "pastParticiple": "간과된, 내려다보이는"
+  },
+  "overcome": {
+    "base": "극복하다",
+    "present": "극복한다",
+    "past": "극복했다",
+    "progressive": "극복하고 있는",
+    "pastParticiple": "극복된"
+  },
+  "practice": {
+    "base": "연습하다, 실행하다",
+    "present": "연습한다, 실행한다",
+    "past": "연습했다, 실행했다",
+    "progressive": "연습하고 있는, 실행하고 있는",
+    "pastParticiple": "연습된, 실행된"
+  },
+  "precede": {
+    "base": "~에 앞서다, 선행하다",
+    "present": "~에 앞선다, 선행한다",
+    "past": "~에 앞섰다, 선행했다",
+    "progressive": "~에 앞서고 있는, 선행하고 있는",
+    "pastParticiple": "~에 앞선, 선행된"
+  },
+  "predict": {
+    "base": "예측하다",
+    "present": "예측한다",
+    "past": "예측했다",
+    "progressive": "예측하고 있는",
+    "pastParticiple": "예측된"
+  },
+  "present": {
+    "base": "제시하다, 주다",
+    "present": "제시한다, 준다",
+    "past": "제시했다, 줬다",
+    "progressive": "제시하고 있는, 주고 있는",
+    "pastParticiple": "제시된, 주어진"
+  },
+  "preserve": {
+    "base": "보존하다, 보호하다",
+    "present": "보존한다, 보호한다",
+    "past": "보존했다, 보호했다",
+    "progressive": "보존하고 있는, 보호하고 있는",
+    "pastParticiple": "보존된, 보호된"
+  },
+  "preside": {
+    "base": "주재하다, 사회를 보다",
+    "present": "주재한다, 사회를 본다",
+    "past": "주재했다, 사회를 봤다",
+    "progressive": "주재하고 있는, 사회를 보고 있는",
+    "pastParticiple": "주재된"
+  },
+  "prevail": {
+    "base": "만연하다, 우세하다",
+    "present": "만연한다, 우세한다",
+    "past": "만연했다, 우세했다",
+    "progressive": "만연하고 있는, 우세하고 있는",
+    "pastParticiple": "만연한, 우세한"
+  },
+  "process": {
+    "base": "처리하다, 가공하다",
+    "present": "처리한다, 가공한다",
+    "past": "처리했다, 가공했다",
+    "progressive": "처리하고 있는, 가공하고 있는",
+    "pastParticiple": "처리된, 가공된"
+  },
+  "proclaim": {
+    "base": "선언하다, 공표하다",
+    "present": "선언한다, 공표한다",
+    "past": "선언했다, 공표했다",
+    "progressive": "선언하고 있는, 공표하고 있는",
+    "pastParticiple": "선언된, 공표된"
+  },
+  "project": {
+    "base": "계획하다, 예상하다",
+    "present": "계획한다, 예상한다",
+    "past": "계획했다, 예상했다",
+    "progressive": "계획하고 있는, 예상하고 있는",
+    "pastParticiple": "계획된, 예상된"
+  },
+  "promote": {
+    "base": "증진하다, 승진시키다",
+    "present": "증진한다, 승진시킨다",
+    "past": "증진했다, 승진시켰다",
+    "progressive": "증진하고 있는, 승진시키고 있는",
+    "pastParticiple": "증진된, 승진된"
+  },
+  "propose": {
+    "base": "제안하다, 청혼하다",
+    "present": "제안한다, 청혼한다",
+    "past": "제안했다, 청혼했다",
+    "progressive": "제안하고 있는, 청혼하고 있는",
+    "pastParticiple": "제안된, 청혼된"
+  },
+  "prosecute": {
+    "base": "기소하다, 추진하다",
+    "present": "기소한다, 추진한다",
+    "past": "기소했다, 추진했다",
+    "progressive": "기소하고 있는, 추진하고 있는",
+    "pastParticiple": "기소된, 추진된"
+  },
+  "protect": {
+    "base": "보호하다, 지키다",
+    "present": "보호한다, 지킨다",
+    "past": "보호했다, 지켰다",
+    "progressive": "보호하고 있는, 지키고 있는",
+    "pastParticiple": "보호된, 지켜진"
+  },
+  "prove": {
+    "base": "증명하다, 판명되다",
+    "present": "증명한다, 판명된다",
+    "past": "증명했다, 판명됐다",
+    "progressive": "증명하고 있는, 판명되고 있는",
+    "pastParticiple": "증명된, 판명된"
+  },
+  "program": {
+    "base": "프로그램하다, 계획하다",
+    "present": "프로그램한다, 계획한다",
+    "past": "프로그램했다, 계획했다",
+    "progressive": "프로그램하고 있는, 계획하고 있는",
+    "pastParticiple": "프로그램된, 계획된"
+  },
+  "publish": {
+    "base": "출판하다, 발행하다",
+    "present": "출판한다, 발행한다",
+    "past": "출판했다, 발행했다",
+    "progressive": "출판하고 있는, 발행하고 있는",
+    "pastParticiple": "출판된, 발행된"
+  },
+  "qualify": {
+    "base": "자격을 주다, 자격을 얻다",
+    "present": "자격을 준다, 자격을 얻는다",
+    "past": "자격을 줬다, 자격을 얻었다",
+    "progressive": "자격을 주고 있는, 자격을 얻고 있는",
+    "pastParticiple": "자격이 주어진, 자격을 얻은"
+  },
+  "quote": {
+    "base": "인용하다, 견적을 내다",
+    "present": "인용한다, 견적을 낸다",
+    "past": "인용했다, 견적을 냈다",
+    "progressive": "인용하고 있는, 견적을 내고 있는",
+    "pastParticiple": "인용된, 견적된"
+  },
+  "rank": {
+    "base": "순위를 매기다, 등급을 차지하다",
+    "present": "순위를 매긴다, 등급을 차지한다",
+    "past": "순위를 매겼다, 등급을 차지했다",
+    "progressive": "순위를 매기고 있는, 등급을 차지하고 있는",
+    "pastParticiple": "순위가 매겨진, 등급을 차지한"
+  },
+  "ratify": {
+    "base": "비준하다, 승인하다",
+    "present": "비준한다, 승인한다",
+    "past": "비준했다, 승인했다",
+    "progressive": "비준하고 있는, 승인하고 있는",
+    "pastParticiple": "비준된, 승인된"
+  },
+  "realize": {
+    "base": "깨닫다, 실현하다",
+    "present": "깨닫는다, 실현한다",
+    "past": "깨달았다, 실현했다",
+    "progressive": "깨닫고 있는, 실현하고 있는",
+    "pastParticiple": "깨달은, 실현된"
+  },
+  "reason": {
+    "base": "추론하다, 이성적으로 생각하다",
+    "present": "추론한다, 이성적으로 생각한다",
+    "past": "추론했다, 이성적으로 생각했다",
+    "progressive": "추론하고 있는, 이성적으로 생각하고 있는",
+    "pastParticiple": "추론된, 이성적으로 생각한"
+  },
+  "recall": {
+    "base": "상기하다, 회수하다",
+    "present": "상기한다, 회수한다",
+    "past": "상기했다, 회수했다",
+    "progressive": "상기하고 있는, 회수하고 있는",
+    "pastParticiple": "상기된, 회수된"
+  },
+  "receive": {
+    "base": "받다, 수신하다",
+    "present": "받는다, 수신한다",
+    "past": "받았다, 수신했다",
+    "progressive": "받고 있는, 수신하고 있는",
+    "pastParticiple": "받은, 수신된"
+  },
+  "recommend": {
+    "base": "추천하다, 권고하다",
+    "present": "추천한다, 권고한다",
+    "past": "추천했다, 권고했다",
+    "progressive": "추천하고 있는, 권고하고 있는",
+    "pastParticiple": "추천된, 권고된"
+  },
+  "pursue": {
+    "base": "추구하다, 뒤쫓다",
+    "present": "추구한다, 뒤쫓는다",
+    "past": "추구했다, 뒤쫓았다",
+    "progressive": "추구하고 있는, 뒤쫓고 있는",
+    "pastParticiple": "추구된, 뒤쫓긴"
+  },
+  "reconcile": {
+    "base": "화해시키다, 조화시키다",
+    "present": "화해시킨다, 조화시킨다",
+    "past": "화해시켰다, 조화시켰다",
+    "progressive": "화해시키고 있는, 조화시키고 있는",
+    "pastParticiple": "화해된, 조화된"
+  },
+  "recruit": {
+    "base": "모집하다, 징집하다",
+    "present": "모집한다, 징집한다",
+    "past": "모집했다, 징집했다",
+    "progressive": "모집하고 있는, 징집하고 있는",
+    "pastParticiple": "모집된, 징집된"
+  },
+  "refer": {
+    "base": "참조하다, 언급하다",
+    "present": "참조한다, 언급한다",
+    "past": "참조했다, 언급했다",
+    "progressive": "참조하고 있는, 언급하고 있는",
+    "pastParticiple": "참조된, 언급된"
+  },
+  "refine": {
+    "base": "정제하다, 개선하다",
+    "present": "정제한다, 개선한다",
+    "past": "정제했다, 개선했다",
+    "progressive": "정제하고 있는, 개선하고 있는",
+    "pastParticiple": "정제된, 개선된"
+  },
+  "register": {
+    "base": "등록하다, 기재하다",
+    "present": "등록한다, 기재한다",
+    "past": "등록했다, 기재했다",
+    "progressive": "등록하고 있는, 기재하고 있는",
+    "pastParticiple": "등록된, 기재된"
+  },
+  "regulate": {
+    "base": "규제하다, 조절하다",
+    "present": "규제한다, 조절한다",
+    "past": "규제했다, 조절했다",
+    "progressive": "규제하고 있는, 조절하고 있는",
+    "pastParticiple": "규제된, 조절된"
+  },
+  "reinforce": {
+    "base": "강화하다, 보강하다",
+    "present": "강화한다, 보강한다",
+    "past": "강화했다, 보강했다",
+    "progressive": "강화하고 있는, 보강하고 있는",
+    "pastParticiple": "강화된, 보강된"
+  },
+  "release": {
+    "base": "풀어주다, 공개하다",
+    "present": "풀어준다, 공개한다",
+    "past": "풀어줬다, 공개했다",
+    "progressive": "풀어주고 있는, 공개하고 있는",
+    "pastParticiple": "풀린, 공개된"
+  },
+  "rely": {
+    "base": "의지하다, 신뢰하다",
+    "present": "의지한다, 신뢰한다",
+    "past": "의지했다, 신뢰했다",
+    "progressive": "의지하고 있는, 신뢰하고 있는",
+    "pastParticiple": "의지된, 신뢰된"
+  },
+  "resolve": {
+    "base": "해결하다, 결심하다",
+    "present": "해결한다, 결심한다",
+    "past": "해결했다, 결심했다",
+    "progressive": "해결하고 있는, 결심하고 있는",
+    "pastParticiple": "해결된, 결심된"
+  },
+  "restrict": {
+    "base": "제한하다, 한정하다",
+    "present": "제한한다, 한정한다",
+    "past": "제한했다, 한정했다",
+    "progressive": "제한하고 있는, 한정하고 있는",
+    "pastParticiple": "제한된, 한정된"
+  },
+  "resume": {
+    "base": "재개하다, 다시 시작하다",
+    "present": "재개한다, 다시 시작한다",
+    "past": "재개했다, 다시 시작했다",
+    "progressive": "재개하고 있는, 다시 시작하고 있는",
+    "pastParticiple": "재개된, 다시 시작된"
+  },
+  "retain": {
+    "base": "보유하다, 유지하다",
+    "present": "보유한다, 유지한다",
+    "past": "보유했다, 유지했다",
+    "progressive": "보유하고 있는, 유지하고 있는",
+    "pastParticiple": "보유된, 유지된"
+  },
+  "retrieve": {
+    "base": "되찾다, 회수하다",
+    "present": "되찾는다, 회수한다",
+    "past": "되찾았다, 회수했다",
+    "progressive": "되찾고 있는, 회수하고 있는",
+    "pastParticiple": "되찾아진, 회수된"
+  },
+  "review": {
+    "base": "검토하다, 재조사하다",
+    "present": "검토한다, 재조사한다",
+    "past": "검토했다, 재조사했다",
+    "progressive": "검토하고 있는, 재조사하고 있는",
+    "pastParticiple": "검토된, 재조사된"
+  },
+  "rotate": {
+    "base": "회전시키다, 교대하다",
+    "present": "회전시킨다, 교대한다",
+    "past": "회전시켰다, 교대했다",
+    "progressive": "회전시키고 있는, 교대하고 있는",
+    "pastParticiple": "회전된, 교대된"
+  },
+  "schedule": {
+    "base": "일정에 넣다, 예정하다",
+    "present": "일정에 넣는다, 예정한다",
+    "past": "일정에 넣었다, 예정했다",
+    "progressive": "일정에 넣고 있는, 예정하고 있는",
+    "pastParticiple": "일정에 있는, 예정된"
+  },
+  "secure": {
+    "base": "확보하다, 안전하게 하다",
+    "present": "확보한다, 안전하게 한다",
+    "past": "확보했다, 안전하게 했다",
+    "progressive": "확보하고 있는, 안전하게 하고 있는",
+    "pastParticiple": "확보된, 안전하게 된"
+  },
+  "restore": {
+    "base": "복원하다, 회복하다",
+    "present": "복원한다, 회복한다",
+    "past": "복원했다, 회복했다",
+    "progressive": "복원하고 있는, 회복하고 있는",
+    "pastParticiple": "복원된, 회복된"
+  },
+  "revise": {
+    "base": "수정하다, 개정하다",
+    "present": "수정한다, 개정한다",
+    "past": "수정했다, 개정했다",
+    "progressive": "수정하고 있는, 개정하고 있는",
+    "pastParticiple": "수정된, 개정된"
+  },
+  "separate": {
+    "base": "분리하다, 갈라놓다",
+    "present": "분리한다, 갈라놓는다",
+    "past": "분리했다, 갈라놓았다",
+    "progressive": "분리하고 있는, 갈라놓고 있는",
+    "pastParticiple": "분리된, 갈라진"
+  },
+  "settle": {
+    "base": "정착하다, 해결하다",
+    "present": "정착한다, 해결한다",
+    "past": "정착했다, 해결했다",
+    "progressive": "정착하고 있는, 해결하고 있는",
+    "pastParticiple": "정착된, 해결된"
+  },
+  "shape": {
+    "base": "형성하다, 모양을 만들다",
+    "present": "형성한다, 모양을 만든다",
+    "past": "형성했다, 모양을 만들었다",
+    "progressive": "형성하고 있는, 모양을 만들고 있는",
+    "pastParticiple": "형성된, 모양이 만들어진"
+  },
+  "shift": {
+    "base": "옮기다, 바꾸다",
+    "present": "옮긴다, 바꾼다",
+    "past": "옮겼다, 바꿨다",
+    "progressive": "옮기고 있는, 바꾸고 있는",
+    "pastParticiple": "옮겨진, 바뀐"
+  },
+  "signal": {
+    "base": "신호를 보내다, 알리다",
+    "present": "신호를 보낸다, 알린다",
+    "past": "신호를 보냈다, 알렸다",
+    "progressive": "신호를 보내고 있는, 알리고 있는",
+    "pastParticiple": "신호가 보내진, 알려진"
+  },
+  "sort": {
+    "base": "분류하다, 정렬하다",
+    "present": "분류한다, 정렬한다",
+    "past": "분류했다, 정렬했다",
+    "progressive": "분류하고 있는, 정렬하고 있는",
+    "pastParticiple": "분류된, 정렬된"
+  },
+  "specify": {
+    "base": "명시하다, 구체화하다",
+    "present": "명시한다, 구체화한다",
+    "past": "명시했다, 구체화했다",
+    "progressive": "명시하고 있는, 구체화하고 있는",
+    "pastParticiple": "명시된, 구체화된"
+  },
+  "stabilize": {
+    "base": "안정시키다, 안정되다",
+    "present": "안정시킨다, 안정된다",
+    "past": "안정시켰다, 안정됐다",
+    "progressive": "안정시키고 있는, 안정되고 있는",
+    "pastParticiple": "안정된"
+  },
+  "stimulate": {
+    "base": "자극하다, 활성화하다",
+    "present": "자극한다, 활성화한다",
+    "past": "자극했다, 활성화했다",
+    "progressive": "자극하고 있는, 활성화하고 있는",
+    "pastParticiple": "자극된, 활성화된"
+  },
+  "strengthen": {
+    "base": "강화하다, 튼튼하게 하다",
+    "present": "강화한다, 튼튼하게 한다",
+    "past": "강화했다, 튼튼하게 했다",
+    "progressive": "강화하고 있는, 튼튼하게 하고 있는",
+    "pastParticiple": "강화된, 튼튼해진"
+  },
+  "structure": {
+    "base": "조직하다, 구성하다",
+    "present": "조직한다, 구성한다",
+    "past": "조직했다, 구성했다",
+    "progressive": "조직하고 있는, 구성하고 있는",
+    "pastParticiple": "조직된, 구성된"
+  },
+  "submit": {
+    "base": "제출하다, 복종하다",
+    "present": "제출한다, 복종한다",
+    "past": "제출했다, 복종했다",
+    "progressive": "제출하고 있는, 복종하고 있는",
+    "pastParticiple": "제출된, 복종된"
+  },
+  "stage": {
+    "base": "상연하다, 준비하다",
+    "present": "상연한다, 준비한다",
+    "past": "상연했다, 준비했다",
+    "progressive": "상연하고 있는, 준비하고 있는",
+    "pastParticiple": "상연된, 준비된"
+  },
+  "standardize": {
+    "base": "표준화하다",
+    "present": "표준화한다",
+    "past": "표준화했다",
+    "progressive": "표준화하고 있는",
+    "pastParticiple": "표준화된"
+  },
+  "state": {
+    "base": "진술하다, 명시하다",
+    "present": "진술한다, 명시한다",
+    "past": "진술했다, 명시했다",
+    "progressive": "진술하고 있는, 명시하고 있는",
+    "pastParticiple": "진술된, 명시된"
+  },
+  "substitute": {
+    "base": "대체하다, 대신하다",
+    "present": "대체한다, 대신한다",
+    "past": "대체했다, 대신했다",
+    "progressive": "대체하고 있는, 대신하고 있는",
+    "pastParticiple": "대체된, 대신한"
+  },
+  "summarize": {
+    "base": "요약하다",
+    "present": "요약한다",
+    "past": "요약했다",
+    "progressive": "요약하고 있는",
+    "pastParticiple": "요약된"
+  },
+  "supplement": {
+    "base": "보충하다, 보완하다",
+    "present": "보충한다, 보완한다",
+    "past": "보충했다, 보완했다",
+    "progressive": "보충하고 있는, 보완하고 있는",
+    "pastParticiple": "보충된, 보완된"
+  },
+  "support": {
+    "base": "지지하다, 부양하다",
+    "present": "지지한다, 부양한다",
+    "past": "지지했다, 부양했다",
+    "progressive": "지지하고 있는, 부양하고 있는",
+    "pastParticiple": "지지된, 부양된"
+  },
+  "survey": {
+    "base": "조사하다, 둘러보다",
+    "present": "조사한다, 둘러본다",
+    "past": "조사했다, 둘러봤다",
+    "progressive": "조사하고 있는, 둘러보고 있는",
+    "pastParticiple": "조사된, 둘러본"
+  },
+  "suspect": {
+    "base": "의심하다, 혐의를 두다",
+    "present": "의심한다, 혐의를 둔다",
+    "past": "의심했다, 혐의를 뒀다",
+    "progressive": "의심하고 있는, 혐의를 두고 있는",
+    "pastParticiple": "의심받는, 혐의가 있는"
+  },
+  "symbolize": {
+    "base": "상징하다, 나타내다",
+    "present": "상징한다, 나타낸다",
+    "past": "상징했다, 나타냈다",
+    "progressive": "상징하고 있는, 나타내고 있는",
+    "pastParticiple": "상징된, 나타내진"
+  },
+  "synthesize": {
+    "base": "통합하다, 합성하다",
+    "present": "통합한다, 합성한다",
+    "past": "통합했다, 합성했다",
+    "progressive": "통합하고 있는, 합성하고 있는",
+    "pastParticiple": "통합된, 합성된"
+  },
+  "supervise": {
+    "base": "감독하다, 관리하다",
+    "present": "감독한다, 관리한다",
+    "past": "감독했다, 관리했다",
+    "progressive": "감독하고 있는, 관리하고 있는",
+    "pastParticiple": "감독된, 관리된"
+  },
+  "systemize": {
+    "base": "체계화하다, 조직화하다",
+    "present": "체계화한다, 조직화한다",
+    "past": "체계화했다, 조직화했다",
+    "progressive": "체계화하고 있는, 조직화하고 있는",
+    "pastParticiple": "체계화된, 조직화된"
+  },
+  "tackle": {
+    "base": "다루다, 착수하다",
+    "present": "다룬다, 착수한다",
+    "past": "다뤘다, 착수했다",
+    "progressive": "다루고 있는, 착수하고 있는",
+    "pastParticiple": "다뤄진, 착수된"
+  },
+  "target": {
+    "base": "목표로 삼다, 겨냥하다",
+    "present": "목표로 삼는다, 겨냥한다",
+    "past": "목표로 삼았다, 겨냥했다",
+    "progressive": "목표로 삼고 있는, 겨냥하고 있는",
+    "pastParticiple": "목표로 삼아진, 겨냥된"
+  },
+  "theorize": {
+    "base": "이론화하다, 이론을 세우다",
+    "present": "이론화한다, 이론을 세운다",
+    "past": "이론화했다, 이론을 세웠다",
+    "progressive": "이론화하고 있는, 이론을 세우고 있는",
+    "pastParticiple": "이론화된, 이론이 세워진"
+  },
+  "threaten": {
+    "base": "위협하다, 협박하다",
+    "present": "위협한다, 협박한다",
+    "past": "위협했다, 협박했다",
+    "progressive": "위협하고 있는, 협박하고 있는",
+    "pastParticiple": "위협받는, 협박당한"
+  },
+  "trace": {
+    "base": "추적하다, 흔적을 찾다",
+    "present": "추적한다, 흔적을 찾는다",
+    "past": "추적했다, 흔적을 찾았다",
+    "progressive": "추적하고 있는, 흔적을 찾고 있는",
+    "pastParticiple": "추적된, 흔적이 찾아진"
+  },
+  "track": {
+    "base": "추적하다, 길을 따라가다",
+    "present": "추적한다, 길을 따라간다",
+    "past": "추적했다, 길을 따라갔다",
+    "progressive": "추적하고 있는, 길을 따라가고 있는",
+    "pastParticiple": "추적된, 길이 따라가진"
+  },
+  "trade": {
+    "base": "거래하다, 교환하다",
+    "present": "거래한다, 교환한다",
+    "past": "거래했다, 교환했다",
+    "progressive": "거래하고 있는, 교환하고 있는",
+    "pastParticiple": "거래된, 교환된"
+  },
+  "transfer": {
+    "base": "이전하다, 옮기다",
+    "present": "이전한다, 옮긴다",
+    "past": "이전했다, 옮겼다",
+    "progressive": "이전하고 있는, 옮기고 있는",
+    "pastParticiple": "이전된, 옮겨진"
+  },
+  "test": {
+    "base": "시험하다, 검사하다",
+    "present": "시험한다, 검사한다",
+    "past": "시험했다, 검사했다",
+    "progressive": "시험하고 있는, 검사하고 있는",
+    "pastParticiple": "시험된, 검사된"
+  },
+  "transport": {
+    "base": "운송하다, 수송하다",
+    "present": "운송한다, 수송한다",
+    "past": "운송했다, 수송했다",
+    "progressive": "운송하고 있는, 수송하고 있는",
+    "pastParticiple": "운송된, 수송된"
+  },
+  "treat": {
+    "base": "루다, 치료하다",
+    "present": "다룬다, 치료한다",
+    "past": "다뤘다, 치료했다",
+    "progressive": "다루고 있는, 치료하고 있는",
+    "pastParticiple": "다뤄진, 치료된"
+  },
+  "trigger": {
+    "base": "유발하다, 방아쇠를 당기다",
+    "present": "유발한다, 방아쇠를 당긴다",
+    "past": "유발했다, 방아쇠를 당겼다",
+    "progressive": "유발하고 있는, 방아쇠를 당기고 있는",
+    "pastParticiple": "유발된, 방아쇠가 당겨진"
+  },
+  "uncover": {
+    "base": "발견하다, 밝히다",
+    "present": "발견한다, 밝힌다",
+    "past": "발견했다, 밝혔다",
+    "progressive": "발견하고 있는, 밝히고 있는",
+    "pastParticiple": "발견된, 밝혀진"
+  },
+  "underline": {
+    "base": "밑줄을 긋다, 강조하다",
+    "present": "밑줄을 긋는다, 강조한다",
+    "past": "밑줄을 그었다, 강조했다",
+    "progressive": "밑줄을 긋고 있는, 강조하고 있는",
+    "pastParticiple": "밑줄이 그어진, 강조된"
+  },
+  "undermine": {
+    "base": "약화시키다, 손상시키다",
+    "present": "약화시킨다, 손상시킨다",
+    "past": "약화시켰다, 손상시켰다",
+    "progressive": "약화시키고 있는, 손상시키고 있는",
+    "pastParticiple": "약화된, 손상된"
+  },
+  "unify": {
+    "base": "통합하다, 통일하다",
+    "present": "통합한다, 통일한다",
+    "past": "통합했다, 통일했다",
+    "progressive": "통합하고 있는, 통일하고 있는",
+    "pastParticiple": "통합된, 통일된"
+  },
+  "update": {
+    "base": "갱신하다, 최신 정보로 하다",
+    "present": "갱신한다, 최신 정보로 한다",
+    "past": "갱신했다, 최신 정보로 했다",
+    "progressive": "갱신하고 있는, 최신 정보로 하고 있는",
+    "pastParticiple": "갱신된, 최신 정보가 된"
+  },
+  "upgrade": {
+    "base": "향상시키다, 업그레이드하다",
+    "present": "향상시킨다, 업그레이드한다",
+    "past": "향상시켰다, 업그레이드했다",
+    "progressive": "향상시키고 있는, 업그레이드하고 있는",
+    "pastParticiple": "향상된, 업그레이드된"
+  },
+  "transmit": {
+    "base": "전송하다, 전달하다",
+    "present": "전송한다, 전달한다",
+    "past": "전송했다, 전달했다",
+    "progressive": "전송하고 있는, 전달하고 있는",
+    "pastParticiple": "전송된, 전달된"
+  },
+  "uphold": {
+    "base": "지지하다, 유지하다",
+    "present": "지지한다, 유지한다",
+    "past": "지지했다, 유지했다",
+    "progressive": "지지하고 있는, 유지하고 있는",
+    "pastParticiple": "지지된, 유지된"
+  },
+  "upset": {
+    "base": "기분 상하게 하다, 뒤엎다",
+    "present": "기분 상하게 한다, 뒤엎는다",
+    "past": "기분 상하게 했다, 뒤엎었다",
+    "progressive": "기분 상하게 하고 있는, 뒤엎고 있는",
+    "pastParticiple": "기분 상한, 뒤엎어진"
+  },
+  "urge": {
+    "base": "촉구하다, 강요하다",
+    "present": "촉구한다, 강요한다",
+    "past": "촉구했다, 강요했다",
+    "progressive": "촉구하고 있는, 강요하고 있는",
+    "pastParticiple": "촉구된, 강요된"
+  },
+  "validate": {
+    "base": "입증하다, 승인하다",
+    "present": "입증한다, 승인한다",
+    "past": "입증했다, 승인했다",
+    "progressive": "입증하고 있는, 승인하고 있는",
+    "pastParticiple": "입증된, 승인된"
+  },
+  "value": {
+    "base": "가치 있게 여기다, 평가하다",
+    "present": "가치 있게 여긴다, 평가한다",
+    "past": "가치 있게 여겼다, 평가했다",
+    "progressive": "가치 있게 여기고 있는, 평가하고 있는",
+    "pastParticiple": "가치 있게 여겨진, 평가된"
+  },
+  "verify": {
+    "base": "확인하다, 검증하다",
+    "present": "확인한다, 검증한다",
+    "past": "확인했다, 검증했다",
+    "progressive": "확인하고 있는, 검증하고 있는",
+    "pastParticiple": "확인된, 검증된"
+  },
+  "view": {
+    "base": "간주하다, 바라보다",
+    "present": "간주한다, 바라본다",
+    "past": "간주했다, 바라봤다",
+    "progressive": "간주하고 있는, 바라보고 있는",
+    "pastParticiple": "간주된, 바라본"
+  },
+  "violate": {
+    "base": "위반하다, 침해하다",
+    "present": "위반한다, 침해한다",
+    "past": "위반했다, 침해했다",
+    "progressive": "위반하고 있는, 침해하고 있는",
+    "pastParticiple": "위반된, 침해된"
+  },
+  "visualize": {
+    "base": "시각화하다, 상상하다",
+    "present": "시각화한다, 상상한다",
+    "past": "시각화했다, 상상했다",
+    "progressive": "시각화하고 있는, 상상하고 있는",
+    "pastParticiple": "시각화된, 상상된"
+  },
+  "volunteer": {
+    "base": "자원하다, 자원봉사하다",
+    "present": "자원한다, 자원봉사한다",
+    "past": "자원했다, 자원봉사했다",
+    "progressive": "자원하고 있는, 자원봉사하고 있는",
+    "pastParticiple": "자원한"
+  },
+  "warrant": {
+    "base": "보증하다, 정당화하다",
+    "present": "보증한다, 정당화한다",
+    "past": "보증했다, 정당화했다",
+    "progressive": "보증하고 있는, 정당화하고 있는",
+    "pastParticiple": "보증된, 정당화된"
+  },
+  "weigh": {
+    "base": "무게를 재다, 숙고하다",
+    "present": "무게를 잰다, 숙고한다",
+    "past": "무게를 쟀다, 숙고했다",
+    "progressive": "무게를 재고 있는, 숙고하고 있는",
+    "pastParticiple": "무게가 재진, 숙고된"
+  },
+  "widen": {
+    "base": "넓히다, 넓어지다",
+    "present": "넓힌다, 넓어진다",
+    "past": "넓혔다, 넓어졌다",
+    "progressive": "넓히고 있는, 넓어지고 있는",
+    "pastParticiple": "넓혀진, 넓어진"
+  },
+  "withdraw": {
+    "base": "철회하다, 인출하다",
+    "present": "철회한다, 인출한다",
+    "past": "철회했다, 인출했다",
+    "progressive": "철회하고 있는, 인출하고 있는",
+    "pastParticiple": "철회된, 인출된"
+  },
+  "witness": {
+    "base": "목격하다, 증언하다",
+    "present": "목격한다, 증언한다",
+    "past": "목격했다, 증언했다",
+    "progressive": "목격하고 있는, 증언하고 있는",
+    "pastParticiple": "목격된, 증언된"
+  },
+  "wonder": {
+    "base": "궁금해하다, 놀라다",
+    "present": "궁금해한다, 놀란다",
+    "past": "궁금해했다, 놀랐다",
+    "progressive": "궁금해하고 있는, 놀라고 있는",
+    "pastParticiple": "궁금해한, 놀란"
+  },
+  "wrap": {
+    "base": "싸다, 포장하다",
+    "present": "싼다, 포장한다",
+    "past": "쌌다, 포장했다",
+    "progressive": "싸고 있는, 포장하고 있는",
+    "pastParticiple": "싸인, 포장된"
+  },
+  "yawn": {
+    "base": "하품하다",
+    "present": "하품한다",
+    "past": "하품했다",
+    "progressive": "하품하고 있는",
+    "pastParticiple": "하품한"
+  },
+  "yell": {
+    "base": "소리치다, 고함치다",
+    "present": "소리친다, 고함친다",
+    "past": "소리쳤다, 고함쳤다",
+    "progressive": "소리치고 있는, 고함치고 있는",
+    "pastParticiple": "소리친"
+  },
+  "yield": {
+    "base": "산출하다, 양보하다",
+    "present": "산출한다, 양보한다",
+    "past": "산출했다, 양보했다",
+    "progressive": "산출하고 있는, 양보하고 있는",
+    "pastParticiple": "산출된, 양보된"
+  },
+  "zip": {
+    "base": "지퍼를 채우다, 쌩하고 지나가다",
+    "present": "지퍼를 채운다, 쌩하고 지나간다",
+    "past": "지퍼를 채웠다, 쌩하고 지나갔다",
+    "progressive": "지퍼를 채우고 있는, 쌩하고 지나가고 있는",
+    "pastParticiple": "지퍼가 채워진, 쌩하고 지나간"
+  },
+  "zoom": {
+    "base": "확대하다, 쌩하고 달리다",
+    "present": "확대한다, 쌩하고 달린다",
+    "past": "확대했다, 쌩하고 달렸다",
+    "progressive": "확대하고 있는, 쌩하고 달리고 있는",
+    "pastParticiple": "확대된, 쌩하고 달린"
+  },
+  "ache": {
+    "base": "아프다, 쑤시다",
+    "present": "아프다, 쑤신다",
+    "past": "아팠다, 쑤셨다",
+    "progressive": "아프고 있는, 쑤시고 있는",
+    "pastParticiple": "아픈, 쑤신"
+  },
+  "amuse": {
+    "base": "즐겁게 하다, 웃기다",
+    "present": "즐겁게 한다, 웃긴다",
+    "past": "즐겁게 했다, 웃겼다",
+    "progressive": "즐겁게 하고 있는, 웃기고 있는",
+    "pastParticiple": "즐거운, 웃긴"
+  },
+  "annoy": {
+    "base": "짜증나게 하다, 귀찮게 하다",
+    "present": "짜증나게 한다, 귀찮게 한다",
+    "past": "짜증나게 했다, 귀찮게 했다",
+    "progressive": "짜증나게 하고 있는, 귀찮게 하고 있는",
+    "pastParticiple": "짜증난, 귀찮은"
+  },
+  "apologize": {
+    "base": "사과하다",
+    "present": "사과한다",
+    "past": "사과했다",
+    "progressive": "사과하고 있는",
+    "pastParticiple": "사과한"
+  },
+  "applaud": {
+    "base": "박수치다, 칭찬하다",
+    "present": "박수친다, 칭찬한다",
+    "past": "박수쳤다, 칭찬했다",
+    "progressive": "박수치고 있는, 칭찬하고 있는",
+    "pastParticiple": "박수받은, 칭찬받은"
+  },
+  "appreciate": {
+    "base": "감사하다, 진가를 알다",
+    "present": "감사한다, 진가를 안다",
+    "past": "감사했다, 진가를 알았다",
+    "progressive": "감사하고 있는, 진가를 알고 있는",
+    "pastParticiple": "감사하는, 진가를 아는"
+  },
+  "astonish": {
+    "base": "깜짝 놀라게 하다",
+    "present": "깜짝 놀라게 한다",
+    "past": "깜짝 놀라게 했다",
+    "progressive": "깜짝 놀라게 하고 있는",
+    "pastParticiple": "깜짝 놀란"
+  },
+  "attach": {
+    "base": "부착하다, 첨부하다",
+    "present": "부착한다, 첨부한다",
+    "past": "부착했다, 첨부했다",
+    "progressive": "부착하고 있는, 첨부하고 있는",
+    "pastParticiple": "부착된, 첨부된"
+  },
+  "attract": {
+    "base": "끌어당기다, 매료시키다",
+    "present": "끌어당긴다, 매료시킨다",
+    "past": "끌어당겼다, 매료시켰다",
+    "progressive": "끌어당기고 있는, 매료시키고 있는",
+    "pastParticiple": "끌어당겨진, 매료된"
+  },
+  "avoid": {
+    "base": "피하다, 회피하다",
+    "present": "피한다, 회피한다",
+    "past": "피했다, 회피했다",
+    "progressive": "피하고 있는, 회피하고 있는",
+    "pastParticiple": "피할 수 없는, 회피된"
+  },
+  "bake": {
+    "base": "굽다",
+    "present": "굽는다",
+    "past": "구웠다",
+    "progressive": "굽고 있는",
+    "pastParticiple": "구워진"
+  },
+  "balance": {
+    "base": "균형을 잡다, 평형을 이루다",
+    "present": "균형을 잡는다, 평형을 이룬다",
+    "past": "균형을 잡았다, 평형을 이뤘다",
+    "progressive": "균형을 잡고 있는, 평형을 이루고 있는",
+    "pastParticiple": "균형 잡힌, 평형을 이"
+  },
+  "ban": {
+    "base": "금지하다",
+    "present": "금지한다",
+    "past": "금지했다",
+    "progressive": "금지하고 있는",
+    "pastParticiple": "금지된"
+  },
+  "bang": {
+    "base": "쾅 치다, 뱅 소리 나다",
+    "present": "쾅 친다, 뱅 소리 난다",
+    "past": "쾅 쳤다, 뱅 소리 났다",
+    "progressive": "쾅 치고 있는, 뱅 소리 나고 있는",
+    "pastParticiple": "쾅 친, 뱅 소리 난"
+  },
+  "bathe": {
+    "base": "목욕하다, 씻다",
+    "present": "목욕한다, 씻는다",
+    "past": "목욕했다, 씻었다",
+    "progressive": "목욕하고 있는, 씻고 있는",
+    "pastParticiple": "목욕한, 씻은"
+  },
+  "beg": {
+    "base": "간청하다, 구걸하다",
+    "present": "간청한다, 구걸한다",
+    "past": "간청했다, 구걸했다",
+    "progressive": "간청하고 있는, 구걸하고 있는",
+    "pastParticiple": "간청된, 구걸한"
+  },
+  "behave": {
+    "base": "행동하다, 처신하다",
+    "present": "행동한다, 처신한다",
+    "past": "행동했다, 처신했다",
+    "progressive": "행동하고 있는, 처신하고 있는",
+    "pastParticiple": "행동한, 처신한"
+  },
+  "belong": {
+    "base": "~에 속하다",
+    "present": "~에 속한다",
+    "past": "~에 속했다",
+    "progressive": "~에 속하고 있는",
+    "pastParticiple": "~에 속한"
+  },
+  "bend": {
+    "base": "구부리다, 숙이다",
+    "present": "구부린다, 숙인다",
+    "past": "구부렸다, 숙였다",
+    "progressive": "구부리고 있는, 숙이고 있는",
+    "pastParticiple": "구부러진, 숙인"
+  },
+  "bet": {
+    "base": "내기를 걸다, ~라고 확신하다",
+    "present": "내기를 건다, ~라고 확신한다",
+    "past": "내기를 걸었다, ~라고 확신했다",
+    "progressive": "내기를 걸고 있는, ~라고 확신하고 있는",
+    "pastParticiple": "내기가 걸린, ~라고 확신하는"
+  },
+  "bite": {
+    "base": "물다, 베어 물다",
+    "present": "문다, 베어 문다",
+    "past": "물었다, 베어 물었다",
+    "progressive": "물고 있는, 베어 물고 있는",
+    "pastParticiple": "물린, 베어 물린"
+  },
+  "bleed": {
+    "base": "피 흘리다, 출혈하다",
+    "present": "피 흘린다, 출혈한다",
+    "past": "피 흘렸다, 출혈했다",
+    "progressive": "피 흘리고 있는, 출혈하고 있는",
+    "pastParticiple": "피 흘린, 출혈한"
+  },
+  "block": {
+    "base": "막다, 차단하다",
+    "present": "막는다, 차단한다",
+    "past": "막았다, 차단했다",
+    "progressive": "막고 있는, 차단하고 있는",
+    "pastParticiple": "막힌, 차단된"
+  },
+  "blush": {
+    "base": "얼굴을 붉히다, 부끄러워하다",
+    "present": "얼굴을 붉힌다, 부끄러워한다",
+    "past": "얼굴을 붉혔다, 부끄러워했다",
+    "progressive": "얼굴을 붉히고 있는, 부끄러워하고 있는",
+    "pastParticiple": "얼굴을 붉힌, 부끄러워한"
+  },
+  "boast": {
+    "base": "자랑하다, 뽐내다",
+    "present": "자랑한다, 뽐낸다",
+    "past": "자랑했다, 뽐냈다",
+    "progressive": "자랑하고 있는, 뽐내고 있는",
+    "pastParticiple": "자랑한, 뽐낸"
+  },
+  "boil": {
+    "base": "끓이다, 끓다",
+    "present": "끓인다, 끓는다",
+    "past": "끓였다, 끓었다",
+    "progressive": "끓이고 있는, 끓고 있는",
+    "pastParticiple": "끓인, 끓은"
+  },
+  "borrow": {
+    "base": "빌리다",
+    "present": "빌린다",
+    "past": "빌렸다",
+    "progressive": "빌리고 있는",
+    "pastParticiple": "빌린"
+  },
+  "bounce": {
+    "base": "튀어 오르다, 튀기다",
+    "present": "튀어 오른다, 튀긴다",
+    "past": "튀어 올랐다, 튀겼다",
+    "progressive": "튀어 오르고 있는, 튀기고 있는",
+    "pastParticiple": "튀어 오른, 튀긴"
+  },
+  "bow": {
+    "base": "절하다, 고개를 숙이다",
+    "present": "절한다, 고개를 숙인다",
+    "past": "절했다, 고개를 숙였다",
+    "progressive": "절하고 있는, 고개를 숙이고 있는",
+    "pastParticiple": "절한, 고개를 숙인"
+  },
+  "breathe": {
+    "base": "숨 쉬다, 호흡하다",
+    "present": "숨 쉰다, 호흡한다",
+    "past": "숨 쉬었다, 호흡했다",
+    "progressive": "숨 쉬고 있는, 호흡하고 있는",
+    "pastParticiple": "숨 쉬는, 호흡하는"
+  },
+  "bruise": {
+    "base": "멍들게 하다, 멍들다",
+    "present": "멍들게 한다, 멍든다",
+    "past": "멍들게 했다, 멍들었다",
+    "progressive": "멍들게 하고 있는, 멍들고 있는",
+    "pastParticiple": "멍든"
+  },
+  "brush": {
+    "base": "닦다, 솔질하다",
+    "present": "닦는다, 솔질한다",
+    "past": "닦았다, 솔질했다",
+    "progressive": "닦고 있는, 솔질하고 있는",
+    "pastParticiple": "닦은, 솔질된"
+  },
+  "bury": {
+    "base": "묻다, 매장하다",
+    "present": "묻는다, 매장한다",
+    "past": "묻었다, 매장했다",
+    "progressive": "묻고 있는, 매장하고 있는",
+    "pastParticiple": "묻힌,"
+  },
+  "buzz": {
+    "base": "윙윙거리다, 웅성거리다",
+    "present": "윙윙거린다, 웅성거린다",
+    "past": "윙윙거렸다, 웅성거렸다",
+    "progressive": "윙윙거리고 있는, 웅성거리고 있는",
+    "pastParticiple": "윙윙거린, 웅성거린"
+  },
+  "camp": {
+    "base": "캠프하다, 야영하다",
+    "present": "캠프한다, 야영한다",
+    "past": "캠프했다, 야영했다",
+    "progressive": "캠프하고 있는, 야영하고 있는",
+    "pastParticiple": "캠프한, 야영한"
+  },
+  "cancel": {
+    "base": "취소하다, 무효로 하다",
+    "present": "취소한다, 무효로 한다",
+    "past": "취소했다, 무효로 했다",
+    "progressive": "취소하고 있는, 무효로 하고 있는",
+    "pastParticiple": "취소된, 무효화된"
+  },
+  "capture": {
+    "base": "붙잡다, 포획하다",
+    "present": "붙잡는다, 포획한다",
+    "past": "붙잡았다, 포획했다",
+    "progressive": "붙잡고 있는, 포획하고 있는",
+    "pastParticiple": "붙잡힌, 포획된"
+  },
+  "care": {
+    "base": "신경 쓰다, 돌보다",
+    "present": "신경 쓴다, 돌본다",
+    "past": "신경 썼다, 돌봤다",
+    "progressive": "신경 쓰고 있는, 돌보고 있는",
+    "pastParticiple": "신경 쓴, 돌본"
+  },
+  "carry": {
+    "base": "나르다, 운반하다",
+    "present": "나른다, 운반한다",
+    "past": "날랐다, 운반했다",
+    "progressive": "나르고 있는, 운반하고 있는",
+    "pastParticiple": "날라진, 운반된"
+  },
+  "carve": {
+    "base": "조각하다, 새기다",
+    "present": "조각한다, 새긴다",
+    "past": "조각했다, 새겼다",
+    "progressive": "조각하고 있는, 새기고 있는",
+    "pastParticiple": "조각된, 새겨진"
+  },
+  "cash": {
+    "base": "현금으로 바꾸다, 돈으로 바꾸다",
+    "present": "현금으로 바꾼다, 돈으로 바꾼다",
+    "past": "현금으로 바꿨다, 돈으로 바꿨다",
+    "progressive": "현금으로 바꾸고 있는, 돈으로 바꾸고 있는",
+    "pastParticiple": "현금화된, 돈으로 바꾼"
+  },
+  "cause": {
+    "base": "야기하다, ~의 원인이 되다",
+    "present": "야기한다, ~의 원인이 된다",
+    "past": "야기했다, ~의 원인이 됐다",
+    "progressive": "야기하고 있는, ~의 원인이 되고 있는",
+    "pastParticiple": "야기된, ~의 원인이 된"
+  },
+  "celebrate": {
+    "base": "축하하다, 기념하다",
+    "present": "축하한다, 기념한다",
+    "past": "축하했다, 기념했다",
+    "progressive": "축하하고 있는, 기념하고 있는",
+    "pastParticiple": "축하된, 기념된"
+  },
+  "challenge": {
+    "base": "도전하다, 이의를 제기하다",
+    "present": "도전한다, 이의를 제기한다",
+    "past": "도전했다, 이의를 제기했다",
+    "progressive": "도전하고 있는, 이의를 제기하고 있는",
+    "pastParticiple": "도전받은, 이의가 제기된"
+  },
+  "charge": {
+    "base": "청구하다, 고발하다",
+    "present": "청구한다, 고발한다",
+    "past": "청구했다, 고발했다",
+    "progressive": "청구하고 있는, 고발하고 있는",
+    "pastParticiple": "청구된, 고발된"
+  },
+  "chase": {
+    "base": "뒤쫓다, 추격하다",
+    "present": "뒤쫓는다, 추격한다",
+    "past": "뒤쫓았다, 추격했다",
+    "progressive": "뒤쫓고 있는, 추격하고 있는",
+    "pastParticiple": "뒤쫓긴, 추격된"
+  },
+  "cheat": {
+    "base": "속이다, 부정행위를 하다",
+    "present": "속인다, 부정행위를 한다",
+    "past": "속였다, 부정행위를 했다",
+    "progressive": "속이고 있는, 부정행위를 하고 있는",
+    "pastParticiple": "속은, 부정행위가 된"
+  },
+  "cheer": {
+    "base": "환호하다, 응원하다",
+    "present": "환호한다, 응원한다",
+    "past": "환호했다, 응원했다",
+    "progressive": "환호하고 있는, 응원하고 있는",
+    "pastParticiple": "환호받은, 응원받은"
+  },
+  "chew": {
+    "base": "씹다",
+    "present": "씹는다",
+    "past": "씹었다",
+    "progressive": "씹고 있는",
+    "pastParticiple": "씹은"
+  },
+  "chop": {
+    "base": "자르다, 썰다",
+    "present": "자른다, 썬다",
+    "past": "잘랐다, 썰었다",
+    "progressive": "자르고 있는, 썰고 있는",
+    "pastParticiple": "잘린, 썰린"
+  },
+  "circle": {
+    "base": "원을 그리다, 빙빙 돌다",
+    "present": "원을 그린다, 빙빙 돈다",
+    "past": "원을 그렸다, 빙빙 돌았다",
+    "progressive": "원을 그리고 있는, 빙빙 돌고 있는",
+    "pastParticiple": "원이 그려진, 빙빙 돈"
+  },
+  "classify": {
+    "base": "분류하다, 등급을 매기다",
+    "present": "분류한다, 등급을 매긴다",
+    "past": "분류했다, 등급을 매겼다",
+    "progressive": "분류하고 있는, 등급을 매기고 있는",
+    "pastParticiple": "분류된, 등급이 매겨진"
+  },
+  "clean": {
+    "base": "청소하다, 깨끗하게 하다",
+    "present": "청소한다, 깨끗하게 한다",
+    "past": "청소했다, 깨끗하게 했다",
+    "progressive": "청소하고 있는, 깨끗하게 하고 있는",
+    "pastParticiple": "청소된, 깨끗한"
+  },
+  "clear": {
+    "base": "치우다, 분명히 하다",
+    "present": "치운다, 분명히 한다",
+    "past": "치웠다, 분명히 했다",
+    "progressive": "치우고 있는, 분명히 하고 있는",
+    "pastParticiple": "치워진, 분명한"
+  },
+  "click": {
+    "base": "딸깍 소리를 내다, 클릭하다",
+    "present": "딸깍 소리를 낸다, 클릭한다",
+    "past": "딸깍 소리를 냈다, 클릭했다",
+    "progressive": "딸깍 소리를 내고 있는, 클릭하고 있는",
+    "pastParticiple": "딸깍 소리 난, 클릭된"
+  },
+  "climb": {
+    "base": "오르다, 등반하다",
+    "present": "오른다, 등반한다",
+    "past": "올랐다, 등반했다",
+    "progressive": "오르고 있는, 등반하고 있는",
+    "pastParticiple": "오른, 등반한"
+  },
+  "close": {
+    "base": "닫다, 폐쇄하다",
+    "present": "닫는다, 폐쇄한다",
+    "past": "닫았다, 폐쇄했다",
+    "progressive": "닫고 있는, 폐쇄하고 있는",
+    "pastParticiple": "닫힌, 폐쇄된"
+  },
+  "coach": {
+    "base": "코치하다, 지도하다",
+    "present": "코치한다, 지도한다",
+    "past": "코치했다, 지도했다",
+    "progressive": "코치하고 있는, 지도하고 있는",
+    "pastParticiple": "코치된, 지도된"
+  },
+  "collect": {
+    "base": "모으다, 수집하다",
+    "present": "모은다, 수집한다",
+    "past": "모았다, 수집했다",
+    "progressive": "모으고 있는, 수집하고 있는",
+    "pastParticiple": "모아진, 수집된"
+  },
+  "comb": {
+    "base": "빗질하다, 샅샅이 뒤지다",
+    "present": "빗질한다, 샅샅이 뒤진다",
+    "past": "빗질했다, 샅샅이 뒤졌다",
+    "progressive": "빗질하고 있는, 샅샅이 뒤지고 있는",
+    "pastParticiple": "빗질된, 샅샅이 뒤진"
+  },
+  "comfort": {
+    "base": "위로하다, 편안하게 하다",
+    "present": "위로한다, 편안하게 한다",
+    "past": "위로했다, 편안하게 했다",
+    "progressive": "위로하고 있는, 편안하게 하고 있는",
+    "pastParticiple": "위로받은, 편안한"
+  },
+  "command": {
+    "base": "명령하다, 지휘하다",
+    "present": "명령한다, 지휘한다",
+    "past": "명령했다, 지휘했다",
+    "progressive": "명령하고 있는, 지휘하고 있는",
+    "pastParticiple": "명령된, 지휘된"
+  },
+  "commit": {
+    "base": "저지르다, 헌신하다",
+    "present": "저지른다, 헌신한다",
+    "past": "저질렀다, 헌신했다",
+    "progressive": "저지르고 있는, 헌신하고 있는",
+    "pastParticiple": "저질러진, 헌신된"
+  },
+  "compete": {
+    "base": "경쟁하다, 겨루다",
+    "present": "경쟁한다, 겨룬다",
+    "past": "경쟁했다, 겨뤘다",
+    "progressive": "경쟁하고 있는, 겨루고 있는",
+    "pastParticiple": "경쟁한, 겨룬"
+  },
+  "complain": {
+    "base": "불평하다, 하소연하다",
+    "present": "불평한다, 하소연한다",
+    "past": "불평했다, 하소연했다",
+    "progressive": "불평하고 있는, 하소연하고 있는",
+    "pastParticiple": "불평한, 하소연한"
+  },
+  "complete": {
+    "base": "완료하다, 끝내다",
+    "present": "완료한다, 끝낸다",
+    "past": "완료했다, 끝냈다",
+    "progressive": "완료하고 있는, 끝내고 있는",
+    "pastParticiple": "완료된, 끝난"
+  },
+  "compose": {
+    "base": "구성하다, 작곡하다",
+    "present": "구성한다, 작곡한다",
+    "past": "구성했다, 작곡했다",
+    "progressive": "구성하고 있는, 작곡하고 있는",
+    "pastParticiple": "구성된, 작곡된"
+  },
+  "concentrate": {
+    "base": "집중하다, 응축하다",
+    "present": "집중한다, 응축한다",
+    "past": "집중했다, 응축했다",
+    "progressive": "집중하고 있는, 응축하고 있는",
+    "pastParticiple": "집중된, 응축된"
+  },
+  "concern": {
+    "base": "관련되다, 걱정시키다",
+    "present": "관련된다, 걱정시킨다",
+    "past": "관련되었다, 걱정시켰다",
+    "progressive": "관련되고 있는, 걱정시키고 있는",
+    "pastParticiple": "관련된, 걱정하는"
+  },
+  "condemn": {
+    "base": "비난하다, 선고하다",
+    "present": "비난한다, 선고한다",
+    "past": "비난했다, 선고했다",
+    "progressive": "비난하고 있는, 선고하고 있는",
+    "pastParticiple": "비난받은, 선고된"
+  },
+  "confirm": {
+    "base": "확인하다, 확정하다",
+    "present": "확인한다, 확정한다",
+    "past": "확인했다, 확정했다",
+    "progressive": "확인하고 있는, 확정하고 있는",
+    "pastParticiple": "확인된, 확정된"
+  },
+  "confuse": {
+    "base": "혼란시키다, 헷갈리게 하다",
+    "present": "혼란시킨다, 헷갈리게 한다",
+    "past": "혼란시켰다, 헷갈리게 했다",
+    "progressive": "혼란시키고 있는, 헷갈리게 하고 있는",
+    "pastParticiple": "혼란스러운, 헷갈린"
+  },
+  "connect": {
+    "base": "연결하다, 접속하다",
+    "present": "연결한다, 접속한다",
+    "past": "연결했다, 접속했다",
+    "progressive": "연결하고 있는, 접속하고 있는",
+    "pastParticiple": "연결된, 접속된"
+  },
+  "conserve": {
+    "base": "보존하다, 아끼다",
+    "present": "보존한다, 아낀다",
+    "past": "보존했다, 아꼈다",
+    "progressive": "보존하고 있는, 아끼고 있는",
+    "pastParticiple": "보존된, 아낀"
+  },
+  "consist": {
+    "base": "~로 구성되다",
+    "present": "~로 구성된다",
+    "past": "~로 구성되었다",
+    "progressive": "~로 구성되고 있는",
+    "pastParticiple": "~로 구성된"
+  },
+  "constitute": {
+    "base": "구성하다, 설립하다, ~이 되다",
+    "present": "구성한다, 설립한다, ~이 된다",
+    "past": "구성했다, 설립했다, ~이 되었다",
+    "progressive": "구성하고 있는, 설립하고 있는, ~이 되고 있는",
+    "pastParticiple": "구성된, 설립된, ~이"
+  },
+  "constrain": {
+    "base": "강요하다, 억지로 시키다, 제한하다",
+    "present": "강요한다, 억지로 시킨다, 제한한다",
+    "past": "강요했다, 억지로 시켰다, 제한했다",
+    "progressive": "강요하고 있는, 억지로 시키고 있는, 제한하고 있는",
+    "pastParticiple": "강요된, 억지로 된, 제한된"
+  },
+  "consume": {
+    "base": "소비하다, 소모하다, 먹다, 마시다",
+    "present": "소비한다, 소모한다, 먹는다, 마신다",
+    "past": "소비했다, 소모했다, 먹었다, 마셨다",
+    "progressive": "소비하고 있는, 소모하고 있는, 먹고 있는, 마시고 있는",
+    "pastParticiple": "소비된, 소모된, 먹은, 마신"
+  },
+  "contact": {
+    "base": "접촉하다, 연락하다",
+    "present": "접촉한다, 연락한다",
+    "past": "접촉했다, 연락했다",
+    "progressive": "접촉하고 있는, 연락하고 있는",
+    "pastParticiple": "접촉된, 연락된"
+  },
+  "contain": {
+    "base": "포함하다, 담고 있다, 억제하다",
+    "present": "포함한다, 담고 있다, 억제한다",
+    "past": "포함했다, 담고 있었다, 억제했다",
+    "progressive": "포함하고 있는, 담고 있는, 억제하고 있는",
+    "pastParticiple": "포함된, 담겨 있는, 억제된"
+  },
+  "contemplate": {
+    "base": "고려하다, 숙고하다, 심사숙고하다",
+    "present": "고려한다, 숙고한다, 심사숙고한다",
+    "past": "고려했다, 숙고했다, 심사숙고했다",
+    "progressive": "고려하고 있는, 숙고하고 있는, 심사숙고하고 있는",
+    "pastParticiple": "고려된, 숙고된, 심사숙고된"
+  },
+  "convert": {
+    "base": "전환하다, 변환하다, 개조하다",
+    "present": "전환한다, 변환한다, 개조한다",
+    "past": "전환했다, 변환했다, 개조했다",
+    "progressive": "전환하고 있는, 변환하고 있는, 개조하고 있는",
+    "pastParticiple": "전환된, 변환된, 개조된"
+  },
+  "convey": {
+    "base": "전달하다, 운반하다, 나르다",
+    "present": "전달한다, 운반한다, 나른다",
+    "past": "전달했다, 운반했다, 날랐다",
+    "progressive": "전달하고 있는, 운반하고 있는, 나르고 있는",
+    "pastParticiple": "전달된, 운반된, 날라진"
+  },
+  "convince": {
+    "base": "설득하다, 납득시키다, 확신시키다",
+    "present": "설득한다, 납득시킨다, 확신시킨다",
+    "past": "설득했다, 납득시켰다, 확신시켰다",
+    "progressive": "설득하고 있는, 납득시키고 있는, 확신시키고 있는",
+    "pastParticiple": "설득된, 납득된, 확신된"
+  },
+  "cook": {
+    "base": "요리하다, 조리하다",
+    "present": "요리한다, 조리한다",
+    "past": "요리했다, 조리했다",
+    "progressive": "요리하고 있는, 조리하고 있는",
+    "pastParticiple": "요리된, 조리된"
+  },
+  "cool": {
+    "base": "식히다, 시원하게 하다, 진정시키다",
+    "present": "식힌다, 시원하게 한다, 진정시킨다",
+    "past": "식혔다, 시원하게 했다, 진정시켰다",
+    "progressive": "식히고 있는, 시원하게 하고 있는, 진정시키고 있는",
+    "pastParticiple": "식혀진, 시원해진, 진정된"
+  },
+  "correct": {
+    "base": "수정하다, 교정하다, 정정하다",
+    "present": "수정한다, 교정한다, 정정한다",
+    "past": "수정했다, 교정했다, 정정했다",
+    "progressive": "수정하고 있는, 교정하고 있는, 정정하고 있는",
+    "pastParticiple": "수정된, 교정된, 정정된"
+  },
+  "correspond": {
+    "base": "일치하다, 부합하다, 해당하다, 편지를 주고받다",
+    "present": "일치한다, 부합한다, 해당한다, 편지를 주고받는다",
+    "past": "일치했다, 부합했다, 해당했다, 편지를 주고받았다",
+    "progressive": "일치하고 있는, 부합하고 있는, 해당하고 있는, 편지를 주고받고 있는",
+    "pastParticiple": "일치한, 부합한, 해당한, 편지를 주고받은"
+  },
+  "cost": {
+    "base": "비용이 들다, 값이 나가다, 희생시키다",
+    "present": "비용이 든다, 값이 나간다, 희생시킨다",
+    "past": "비용이 들었다, 값이 나갔다, 희생시켰다",
+    "progressive": "비용이 들고 있는, 값이 나가고 있는, 희생시키고 있는",
+    "pastParticiple": "비용이 든, 값이 나간, 희생된"
+  },
+  "cough": {
+    "base": "기침하다",
+    "present": "기침한다",
+    "past": "기침했다",
+    "progressive": "기침하고 있는",
+    "pastParticiple": "기침한"
+  },
+  "count": {
+    "base": "세다, 계산하다, 중요하다, (~로) 간주하다",
+    "present": "센다, 계산한다, 중요하다, (~로) 간주한다",
+    "past": "셌다, 계산했다, 중요했다, (~로) 간주했다",
+    "progressive": "세고 있는, 계산하고 있는, 중요하고 있는, (~로) 간주하고 있는",
+    "pastParticiple": "센, 계산된, 중요한, (~로) 간주된"
+  },
+  "couple": {
+    "base": "연결하다, 짝을 짓다",
+    "present": "연결한다, 짝을 짓는다",
+    "past": "연결했다, 짝을 지었다",
+    "progressive": "연결하고 있는, 짝을 짓고 있는",
+    "pastParticiple": "연결된, 짝지어진"
+  },
+  "crash": {
+    "base": "충돌하다, 추락하다, 고장 나다, 급락하다",
+    "present": "충돌한다, 추락한다, 고장 난다, 급락한다",
+    "past": "충돌했다, 추락했다, 고장 났다, 급락했다",
+    "progressive": "충돌하고 있는, 추락하고 있는, 고장 나고 있는, 급락하고 있는",
+    "pastParticiple": "충돌한, 추락한, 고장 난, 급락한"
+  },
+  "crawl": {
+    "base": "기어가다, 기어가다시피 움직이다",
+    "present": "기어간다, 기어가다시피 움직인다",
+    "past": "기어갔다, 기어가다시피 움직였다",
+    "progressive": "기어가고 있는, 기어가다시피 움직이고 있는",
+    "pastParticiple": "기어간, 기어간"
+  },
+  "cross": {
+    "base": "건너다, 가로지르다, 교차하다",
+    "present": "건넌다, 가로지른다, 교차한다",
+    "past": "건넜다, 가로질렀다, 교차했다",
+    "progressive": "건너고 있는, 가로지르고 있는, 교차하고 있는",
+    "pastParticiple": "건넌, 가로지른, 교차된"
+  },
+  "crowd": {
+    "base": "붐비다, 가득 메우다, 몰려들다",
+    "present": "붐빈다, 가득 메운다, 몰려든다",
+    "past": "붐볐다, 가득 메웠다, 몰려들었다",
+    "progressive": "붐비고 있는, 가득 메우고 있는, 몰려들고 있는",
+    "pastParticiple": "붐빈, 가득 메워진, 몰려든"
+  },
+  "counsel": {
+    "base": "조언하다, 상담하다",
+    "present": "조언한다, 상담한다",
+    "past": "조언했다, 상담했다",
+    "progressive": "조언하고 있는, 상담하고 있는",
+    "pastParticiple": "조언된, 상담된"
+  },
+  "cry": {
+    "base": "울다, 외치다, 소리치다",
+    "present": "운다, 외친다, 소리친다",
+    "past": "울었다, 외쳤다, 소리쳤다",
+    "progressive": "울고 있는, 외치고 있는, 소리치고 있는",
+    "pastParticiple": "운, 외친, 소리친"
+  },
+  "cure": {
+    "base": "치료하다, 고치다, 해결하다",
+    "present": "치료한다, 고친다, 해결한다",
+    "past": "치료했다, 고쳤다, 해결했다",
+    "progressive": "치료하고 있는, 고치고 있는, 해결하고 있는",
+    "pastParticiple": "치료된, 고쳐진, 해결된"
+  },
+  "curl": {
+    "base": "곱슬곱슬하게 하다, 구부러지게 하다, 웅크리다",
+    "present": "곱슬곱슬하게 한다, 구부러지게 한다, 웅크린다",
+    "past": "곱슬곱슬하게 했다, 구부러지게 했다, 웅크렸다",
+    "progressive": "곱슬곱슬하게 하고 있는, 구부러지게 하고 있는, 웅크리고 있는",
+    "pastParticiple": "곱슬곱슬한, 구부러진, 웅크린"
+  },
+  "curve": {
+    "base": "구부리다, 곡선을 이루다",
+    "present": "구부린다, 곡선을 이룬다",
+    "past": "구부렸다, 곡선을 이루었다",
+    "progressive": "구부리고 있는, 곡선을 이루고 있는",
+    "pastParticiple": "구부러진, 곡선을 이룬"
+  },
+  "damage": {
+    "base": "손상시키다, 피해를 주다",
+    "present": "손상시킨다, 피해를 준다",
+    "past": "손상시켰다, 피해를 주었다",
+    "progressive": "손상시키고 있는, 피해를 주고 있는",
+    "pastParticiple": "손상된, 피해를 입은"
+  },
+  "dare": {
+    "base": "감히 ~하다, ~할 용기가 있다, 도전하다",
+    "present": "감히 ~한다, ~할 용기가 있다, 도전한다",
+    "past": "감히 ~했다, ~할 용기가 있었다, 도전했다",
+    "progressive": "감히 ~하고 있는, ~할 용기가 있는, 도전하고 있는",
+    "pastParticiple": "감히 ~한, 도전된"
+  },
+  "deal": {
+    "base": "다루다, 처리하다, 거래하다, 분배하다",
+    "present": "다룬다, 처리한다, 거래한다, 분배한다",
+    "past": "다루었다, 처리했다, 거래했다, 분배했다",
+    "progressive": "다루고 있는, 처리하고 있는, 거래하고 있는, 분배하고 있는",
+    "pastParticiple": "다룬, 처리된, 거래된, 분배된"
+  },
+  "decay": {
+    "base": "썩다, 부패하다, 쇠퇴하다",
+    "present": "썩는다, 부패한다, 쇠퇴한다",
+    "past": "썩었다, 부패했다, 쇠퇴했다",
+    "progressive": "썩고 있는, 부패하고 있는, 쇠퇴하고 있는",
+    "pastParticiple": "썩은, 부패한, 쇠퇴한"
+  },
+  "deceive": {
+    "base": "속이다, 기만하다",
+    "present": "속인다, 기만한다",
+    "past": "속였다, 기만했다",
+    "progressive": "속이고 있는, 기만하고 있는",
+    "pastParticiple": "속은, 기만당한"
+  },
+  "dance": {
+    "base": "춤추다",
+    "present": "춤춘다",
+    "past": "춤췄다",
+    "progressive": "춤추고 있는",
+    "pastParticiple": "춤춘"
+  },
+  "delay": {
+    "base": "지연시키다, 미루다, 늦추다",
+    "present": "지연시킨다, 미룬다, 늦춘다",
+    "past": "지연시켰다, 미루었다, 늦추었다",
+    "progressive": "지연시키고 있는, 미루고 있는, 늦추고 있는",
+    "pastParticiple": "지연된, 미루어진, 늦춰진"
+  },
+  "delete": {
+    "base": "제하다, 지우다",
+    "present": "삭제한다, 지운다",
+    "past": "삭제했다, 지웠다",
+    "progressive": "삭제하고 있는, 지우고 있는",
+    "pastParticiple": "삭제된, 지워진"
+  },
+  "deliver": {
+    "base": "배달하다, 전달하다, 연설하다",
+    "present": "배달한다, 전달한다, 연설한다",
+    "past": "배달했다, 전달했다, 연설했다",
+    "progressive": "배달하고 있는, 전달하고 있는, 연설하고 있는",
+    "pastParticiple": "배달된, 전달된, 연설된"
+  },
+  "decorate": {
+    "base": "장식하다, 꾸미다",
+    "present": "장식한다, 꾸민다",
+    "past": "장식했다, 꾸몄다",
+    "progressive": "장식하고 있는, 꾸미고 있는",
+    "pastParticiple": "장식된, 꾸며진"
+  },
+  "demand": {
+    "base": "요구하다, 요청하다, 필요로 하다",
+    "present": "요구한다, 요청한다, 필요로 한다",
+    "past": "요구했다, 요청했다, 필요로 했다",
+    "progressive": "요구하고 있는, 요청하고 있는, 필요로 하고 있는",
+    "pastParticiple": "요구된, 요청된, 필요한"
+  },
+  "depart": {
+    "base": "출발하다, 떠나다, 벗어나다",
+    "present": "출발한다, 떠난다, 벗어난다",
+    "past": "출발했다, 떠났다, 벗어났다",
+    "progressive": "출발하고 있는, 떠나고 있는, 벗어나고 있는",
+    "pastParticiple": "출발한, 떠난, 벗어난"
+  },
+  "depend": {
+    "base": "의존하다, 의지하다, ~에 달려 있다",
+    "present": "의존한다, 의지한다, ~에 달려 있다",
+    "past": "의존했다, 의지했다, ~에 달려 있었다",
+    "progressive": "의존하고 있는, 의지하고 있는, ~에 달려 있는",
+    "pastParticiple": "의존된, 의지된"
+  },
+  "deposit": {
+    "base": "예금하다, 맡기다, 놓다",
+    "present": "예금한다, 맡긴다, 놓는다",
+    "past": "예금했다, 맡겼다, 놓았다",
+    "progressive": "예금하고 있는, 맡기고 있는, 놓고 있는",
+    "pastParticiple": "예금된, 맡겨진, 놓인"
+  },
+  "derive": {
+    "base": "얻다, 끌어내다, 유래하다",
+    "present": "얻는다, 끌어낸다, 유래한다",
+    "past": "얻었다, 끌어냈다, 유래했다",
+    "progressive": "얻고 있는, 끌어내고 있는, 유래하고 있는",
+    "pastParticiple": "얻어진, 끌어내진, 유래한"
+  },
+  "descend": {
+    "base": "내려가다, 하강하다, 물려주다",
+    "present": "내려간다, 하강한다, 물려준다",
+    "past": "내려갔다, 하강했다, 물려주었다",
+    "progressive": "내려가고 있는, 하강하고 있는, 물려주고 있는",
+    "pastParticiple": "내려간, 하강한, 물려진"
+  },
+  "deserve": {
+    "base": "~할 만하다, ~을 받을 가치가 있다",
+    "present": "~할 만하다, ~을 받을 가치가 있다",
+    "past": "~할 만했다, ~을 받을 가치가 있었다",
+    "progressive": "~할 만하다, ~을 받을 가치가 있다",
+    "pastParticiple": "~할 만한, ~을 받을 가치가 있는"
+  },
+  "desire": {
+    "base": "바라다, 원하다, 열망하다",
+    "present": "바란다, 원한다, 열망한다",
+    "past": "바랐다, 원했다, 열망했다",
+    "progressive": "바라고 있는, 원하고 있는, 열망하고 있는",
+    "pastParticiple": "바란, 원한, 열망한"
+  },
+  "detach": {
+    "base": "분리하다, 떼어내다, 이탈시키다",
+    "present": "분리한다, 떼어낸다, 이탈시킨다",
+    "past": "분리했다, 떼어냈다, 이탈시켰다",
+    "progressive": "분리하고 있는, 떼어내고 있는, 이탈시키고 있는",
+    "pastParticiple": "분리된, 떼어진, 이탈된"
+  },
+  "detail": {
+    "base": "상세히 설명하다, 열거하다",
+    "present": "상세히 설명한다, 열거한다",
+    "past": "상세히 설명했다, 열거했다",
+    "progressive": "상세히 설명하고 있는, 열거하고 있는",
+    "pastParticiple": "상세히 설명된, 열거된"
+  },
+  "deter": {
+    "base": "단념시키다, 그만두게 하다, 방해하다",
+    "present": "단념시킨다, 그만두게 한다, 방해한다",
+    "past": "단념시켰다, 그만두게 했다, 방해했다",
+    "progressive": "단념시키고 있는, 그만두게 하고 있는, 방해하고 있는",
+    "pastParticiple": "단념된, 그만두게 된, 방해된"
+  },
+  "devote": {
+    "base": "바치다, 헌신하다, 전념하다",
+    "present": "바친다, 헌신한다, 전념한다",
+    "past": "바쳤다, 헌신했다, 전념했다",
+    "progressive": "바치고 있는, 헌신하고 있는, 전념하고 있는",
+    "pastParticiple": "바쳐진, 헌신한, 전념한"
+  },
+  "differ": {
+    "base": "다르다, 의견이 다르다",
+    "present": "다르다, 의견이 다르다",
+    "past": "달랐다, 의견이 달랐다",
+    "progressive": "다르고 있는, 의견이 다르고 있는",
+    "pastParticiple": "다른"
+  },
+  "dig": {
+    "base": "파다, 땅을 파다, 캐내다",
+    "present": "판다, 땅을 판다, 캐낸다",
+    "past": "팠다, 땅을 팠다, 캐냈다",
+    "progressive": "파고 있는, 땅을 파고 있는, 캐내고 있는",
+    "pastParticiple": "파인, 땅이 파인, 캐내진"
+  },
+  "dictate": {
+    "base": "받아쓰게 하다, 지시하다, 명령하다",
+    "present": "받아쓰게 한다, 지시한다, 명령한다",
+    "past": "받아쓰게 했다, 지시했다, 명령했다",
+    "progressive": "받아쓰게 하고 있는, 지시하고 있는, 명령하고 있는",
+    "pastParticiple": "받아쓰게 된, 지시된, 명령된"
+  },
+  "disappear": {
+    "base": "사라지다, 없어지다",
+    "present": "사라진다, 없어진다",
+    "past": "사라졌다, 없어졌다",
+    "progressive": "사라지고 있는, 없어지고 있는",
+    "pastParticiple": "사라진, 없어진"
+  },
+  "discharge": {
+    "base": "방출하다, 배출하다, 해고하다, 퇴원시키다",
+    "present": "방출한다, 배출한다, 해고한다, 퇴원시킨다",
+    "past": "방출했다, 배출했다, 해고했다, 퇴원시켰다",
+    "progressive": "방출하고 있는, 배출하고 있는, 해고하고 있는, 퇴원시키고 있는",
+    "pastParticiple": "방출된, 배출된, 해고된, 퇴원한"
+  },
+  "discuss": {
+    "base": "의하다, 토론하다, 상의하다",
+    "present": "논의한다, 토론한다, 상의한다",
+    "past": "논의했다, 토론했다, 상의했다",
+    "progressive": "논의하고 있는, 토론하고 있는, 상의하고 있는",
+    "pastParticiple": "논의된, 토론된, 상의된"
+  },
+  "dislike": {
+    "base": "싫어하다, 싫어하지 않다",
+    "present": "싫어한다, 싫어하지 않는다",
+    "past": "싫어했다, 싫어하지 않았다",
+    "progressive": "싫어하고 있는, 싫어하지 않고 있는",
+    "pastParticiple": "싫어한, 싫어하지 않은"
+  },
+  "dismiss": {
+    "base": "해고하다, 해산시키다, 묵살하다",
+    "present": "해고한다, 해산시킨다, 묵살한다",
+    "past": "해고했다, 해산시켰다, 묵살했다",
+    "progressive": "해고하고 있는, 해산시키고 있는, 묵살하고 있는",
+    "pastParticiple": "해고된, 해산된, 묵살된"
+  },
+  "displace": {
+    "base": "대체하다, 대신하다, 쫓아내다",
+    "present": "대체한다, 대신한다, 쫓아낸다",
+    "past": "대체했다, 대신했다, 쫓아냈다",
+    "progressive": "대체하고 있는, 대신하고 있는, 쫓아내고 있는",
+    "pastParticiple": "대체된, 대신된, 쫓겨난"
+  },
+  "discipline": {
+    "base": "훈련하다, 훈육하다, 규율을 지키게 하다",
+    "present": "훈련한다, 훈육한다, 규율을 지키게 한다",
+    "past": "훈련했다, 훈육했다, 규율을 지키게 했다",
+    "progressive": "훈련하고 있는, 훈육하고 있는, 규율을 지키게 하고 있는",
+    "pastParticiple": "훈련된, 훈육된, 규율이 잡힌"
+  },
+  "dissolve": {
+    "base": "녹이다, 용해하다, 해산하다",
+    "present": "녹인다, 용해한다, 해산한다",
+    "past": "녹였다, 용해했다, 해산했다",
+    "progressive": "녹이고 있는, 용해하고 있는, 해산하고 있는",
+    "pastParticiple": "녹은, 용해된, 해산된"
+  },
+  "distinguish": {
+    "base": "구별하다, 분간하다, 특징짓다",
+    "present": "구별한다, 분간한다, 특징짓는다",
+    "past": "구별했다, 분간했다, 특징지었다",
+    "progressive": "구별하고 있는, 분간하고 있는, 특징짓고 있는",
+    "pastParticiple": "구별된, 분간된, 특징지어진"
+  },
+  "distress": {
+    "base": "괴롭히다, 고통스럽게 하다, 곤경에 빠뜨리다",
+    "present": "괴롭힌다, 고통스럽게 한다, 곤경에 빠뜨린다",
+    "past": "괴롭혔다, 고통스럽게 했다, 곤경에 빠뜨렸다",
+    "progressive": "괴롭히고 있는, 고통스럽게 하고 있는, 곤경에 빠뜨리고 있는",
+    "pastParticiple": "괴로운, 고통스러운, 곤경에 빠진"
+  },
+  "disturb": {
+    "base": "방해하다, 혼란시키다, 불안하게 하다",
+    "present": "방해한다, 혼란시킨다, 불안하게 한다",
+    "past": "방해했다, 혼란시켰다, 불안하게 했다",
+    "progressive": "방해하고 있는, 혼란시키고 있는, 불안하게 하고 있는",
+    "pastParticiple": "방해된, 혼란스러운, 불안한"
+  },
+  "dive": {
+    "base": "다이빙하다, 잠수하다, 뛰어들다",
+    "present": "다이빙한다, 잠수한다, 뛰어든다",
+    "past": "다이빙했다, 잠수했다, 뛰어들었다",
+    "progressive": "다이빙하고 있는, 잠수하고 있는, 뛰어들고 있는",
+    "pastParticiple": "다이빙한, 잠수한, 뛰어든"
+  },
+  "divide": {
+    "base": "나누다, 분할하다, 분배하다",
+    "present": "나눈다, 분할한다, 분배한다",
+    "past": "나누었다, 분할했다, 분배했다",
+    "progressive": "나누고 있는, 분할하고 있는, 분배하고 있는",
+    "pastParticiple": "나뉜, 분할된, 분배된"
+  },
+  "divorce": {
+    "base": "이혼하다, 분리하다",
+    "present": "이혼한다, 분리한다",
+    "past": "이혼했다, 분리했다",
+    "progressive": "이혼하고 있는, 분리하고 있는",
+    "pastParticiple": "이혼한, 분리된"
+  },
+  "drag": {
+    "base": "끌다, 끌고 가다, 질질 끌다",
+    "present": "끈다, 끌고 간다, 질질 끈다",
+    "past": "끌었다, 끌고 갔다, 질질 끌었다",
+    "progressive": "끌고 있는, 끌고 가고 있는, 질질 끌고 있는",
+    "pastParticiple": "끌린, 끌려간, 질질 끌린"
+  },
+  "drain": {
+    "base": "물을 빼다, 배수하다, 고갈시키다",
+    "present": "물을 뺀다, 배수한다, 고갈시킨다",
+    "past": "물을 뺐다, 배수했다, 고갈시켰다",
+    "progressive": "물을 빼고 있는, 배수하고 있는, 고갈시키고 있는",
+    "pastParticiple": "물이 빠진, 배수된, 고갈된"
+  },
+  "dress": {
+    "base": "옷을 입히다, 옷을 입다, 장식하다",
+    "present": "옷을 입힌다, 옷을 입는다, 장식한다",
+    "past": "옷을 입혔다, 옷을 입었다, 장식했다",
+    "progressive": "옷을 입히고 있는, 옷을 입고 있는, 장식하고 있는",
+    "pastParticiple": "옷을 입은, 옷이 입혀진, 장식된"
+  },
+  "drift": {
+    "base": "표류하다, 떠다니다, (점점) ~하게 되다",
+    "present": "표류한다, 떠다닌다, (점점) ~하게 된다",
+    "past": "표류했다, 떠다녔다, (점점) ~하게 되었다",
+    "progressive": "표류하고 있는, 떠다니고 있는, (점점) ~하게 되고 있는",
+    "pastParticiple": "표류한, 떠다닌"
+  },
+  "drill": {
+    "base": "훈련하다, 반복 연습하다, 구멍을 뚫다",
+    "present": "훈련한다, 반복 연습한다, 구멍을 뚫는다",
+    "past": "훈련했다, 반복 연습했다, 구멍을 뚫었다",
+    "progressive": "훈련하고 있는, 반복 연습하고 있는, 구멍을 뚫고 있는",
+    "pastParticiple": "훈련된, 반복 연습된, 구멍이 뚫린"
+  },
+  "drink": {
+    "base": "마시다",
+    "present": "마신다",
+    "past": "마셨다",
+    "progressive": "마시고 있는",
+    "pastParticiple": "마신"
+  },
+  "drip": {
+    "base": "(액체가) 뚝뚝 떨어지다, 방울방울 떨어지다",
+    "present": "뚝뚝 떨어진다, 방울방울 떨어진다",
+    "past": "뚝뚝 떨어졌다, 방울방울 떨어졌다",
+    "progressive": "뚝뚝 떨어지고 있는, 방울방울 떨어지고 있는",
+    "pastParticiple": "뚝뚝 떨어진, 방울방울 떨어진"
+  },
+  "dream": {
+    "base": "꿈꾸다, 꿈을 꾸다, 상상하다",
+    "present": "꿈꾼다, 꿈을 꾼다, 상상한다",
+    "past": "꿈꿨다, 꿈을 꿨다, 상상했다",
+    "progressive": "꿈꾸고 있는, 꿈을 꾸고 있는, 상상하고 있는",
+    "pastParticiple": "꿈꾼, 꿈꾼, 상상한"
+  },
+  "drop": {
+    "base": "떨어뜨리다, 떨어지다, 그만두다",
+    "present": "떨어뜨린다, 떨어진다, 그만둔다",
+    "past": "떨어뜨렸다, 떨어졌다, 그만두었다",
+    "progressive": "떨어뜨리고 있는, 떨어지고 있는, 그만두고 있는",
+    "pastParticiple": "떨어뜨린, 떨어진, 그만둔"
+  },
+  "drown": {
+    "base": "물에 빠뜨리다, 익사하다, 침수시키다",
+    "present": "물에 빠뜨린다, 익사한다, 침수시킨다",
+    "past": "물에 빠뜨렸다, 익사했다, 침수시켰다",
+    "progressive": "물에 빠뜨리고 있는, 익사하고 있는, 침수시키고 있는",
+    "pastParticiple": "물에 빠진, 익사한, 침수된"
+  },
+  "dry": {
+    "base": "말리다, 건조시키다, 마르다",
+    "present": "말린다, 건조시킨다, 마른다",
+    "past": "말렸다, 건조시켰다, 말랐다",
+    "progressive": "말리고 있는, 건조시키고 있는, 마르고 있는",
+    "pastParticiple": "마른, 건조된"
+  },
+  "dust": {
+    "base": "먼지를 털다, 먼지를 닦다",
+    "present": "먼지를 턴다, 먼지를 닦는다",
+    "past": "먼지를 털었다, 먼지를 닦았다",
+    "progressive": "먼지를 털고 있는, 먼지를 닦고 있는",
+    "pastParticiple": "먼지가 털린, 먼지가 닦인"
+  },
+  "earn": {
+    "base": "벌다, 얻다, 획득하다",
+    "present": "번다, 얻는다, 획득한다",
+    "past": "벌었다, 얻었다, 획득했다",
+    "progressive": "벌고 있는, 얻고 있는, 획득하고 있는",
+    "pastParticiple": "번, 얻은, 획득한"
+  },
+  "ease": {
+    "base": "완화하다, 편하게 하다, 쉽게 하다",
+    "present": "완화한다, 편하게 한다, 쉽게 한다",
+    "past": "완화했다, 편하게 했다, 쉽게 했다",
+    "progressive": "완화하고 있는, 편하게 하고 있는, 쉽게 하고 있는",
+    "pastParticiple": "완화된, 편해진, 쉬워진"
+  },
+  "educate": {
+    "base": "교육하다, 가르치다",
+    "present": "교육한다, 가르친다",
+    "past": "교육했다, 가르쳤다",
+    "progressive": "교육하고 있는, 가르치고 있는",
+    "pastParticiple": "교육된, 가르침을 받은"
+  },
+  "elect": {
+    "base": "선출하다, 선택하다",
+    "present": "선출한다, 선택한다",
+    "past": "선출했다, 선택했다",
+    "progressive": "선출하고 있는, 선택하고 있는",
+    "pastParticiple": "선출된, 선택된"
+  },
+  "embarrass": {
+    "base": "당황하게 하다, 부끄럽게 하다",
+    "present": "당황하게 한다, 부끄럽게 한다",
+    "past": "당황하게 했다, 부끄럽게 했다",
+    "progressive": "당황하게 하고 있는, 부끄럽게 하고 있는",
+    "pastParticiple": "당황한, 부끄러운"
+  },
+  "employ": {
+    "base": "고용하다, 사용하다, 활용하다",
+    "present": "고용한다, 사용한다, 활용한다",
+    "past": "고용했다, 사용했다, 활용했다",
+    "progressive": "고용하고 있는, 사용하고 있는, 활용하고 있는",
+    "pastParticiple": "고용된, 사용된, 활용된"
+  },
+  "empty": {
+    "base": "비우다, 비워지다",
+    "present": "비운다, 비워진다",
+    "past": "비웠다, 비워졌다",
+    "progressive": "비우고 있는, 비워지고 있는",
+    "pastParticiple": "비어 있는, 비워진"
+  },
+  "enable": {
+    "base": "~할 수 있게 하다, 가능하게 하다",
+    "present": "~할 수 있게 한다, 가능하게 한다",
+    "past": "~할 수 있게 했다, 가능하게 했다",
+    "progressive": "~할 수 있게 하고 있는, 가능하게 하고 있는",
+    "pastParticiple": "~할 수 있게 된, 가능해진"
+  },
+  "encounter": {
+    "base": "마주치다, 맞닥뜨리다, 직면하다",
+    "present": "마주친다, 맞닥뜨린다, 직면한다",
+    "past": "마주쳤다, 맞닥뜨렸다, 직면했다",
+    "progressive": "마주치고 있는, 맞닥뜨리고 있는, 직면하고 있는",
+    "pastParticiple": "마주친, 맞닥뜨린, 직면한"
+  },
+  "endure": {
+    "base": "견디다, 참다, 지속하다",
+    "present": "견딘다, 참는다, 지속한다",
+    "past": "견뎠다, 참았다, 지속했다",
+    "progressive": "견디고 있는, 참고 있는, 지속하고 있는",
+    "pastParticiple": "견딘, 참은, 지속된"
+  },
+  "echo": {
+    "base": "메아리치다, 울려 퍼지다, (생각 감정을) 반영하다",
+    "present": "메아리친다, 울려 퍼진다, 반영한다",
+    "past": "메아리쳤다, 울려 퍼졌다, 반영했다",
+    "progressive": "메아리치고 있는, 울려 퍼지고 있는, 반영하고 있는",
+    "pastParticiple": "메아리친, 울려 퍼진, 반영된"
+  },
+  "engage": {
+    "base": "참여하다, 관여하다, 약혼하다, (흥미를) 끌다",
+    "present": "참여한다, 관여한다, 약혼한다, (흥미를) 끈다",
+    "past": "참여했다, 관여했다, 약혼했다, (흥미를) 끌었다",
+    "progressive": "참여하고 있는, 관여하고 있는, 약혼하고 있는, (흥미를) 끌고 있는",
+    "pastParticiple": "참여한, 관여된, 약혼한, (흥미가) 끌린"
+  },
+  "enjoy": {
+    "base": "즐기다, 누리다",
+    "present": "즐긴다, 누린다",
+    "past": "즐겼다, 누렸다",
+    "progressive": "즐기고 있는, 누리고 있는",
+    "pastParticiple": "즐긴, 누린"
+  },
+  "enlarge": {
+    "base": "확대하다, 확장하다, 커지다",
+    "present": "확대한다, 확장한다, 커진다",
+    "past": "확대했다, 확장했다, 커졌다",
+    "progressive": "확대하고 있는, 확장하고 있는, 커지고 있는",
+    "pastParticiple": "확대된, 확장된, 커진"
+  },
+  "enrich": {
+    "base": "풍부하게 하다, 질을 높이다",
+    "present": "풍부하게 한다, 질을 높인다",
+    "past": "풍부하게 했다, 질을 높였다",
+    "progressive": "풍부하게 하고 있는, 질을 높이고 있는",
+    "pastParticiple": "풍부해진, 질이 높아진"
+  },
+  "entitle": {
+    "base": "자격을 주다, 권리를 부여하다, ~라고 칭하다",
+    "present": "자격을 준다, 권리를 부여한다, ~라고 칭한다",
+    "past": "자격을 주었다, 권리를 부여했다, ~라고 칭했다",
+    "progressive": "자격을 주고 있는, 권리를 부여하고 있는, ~라고 칭하고 있는",
+    "pastParticiple": "자격이 주어진, 권리가 부여된, ~라고 칭해진"
+  },
+  "escape": {
+    "base": "탈출하다, 도망치다, 피하다",
+    "present": "탈출한다, 도망친다, 피한다",
+    "past": "탈출했다, 도망쳤다, 피했다",
+    "progressive": "탈출하고 있는, 도망치고 있는, 피하고 있는",
+    "pastParticiple": "탈출한, 도망친, 피한"
+  },
+  "estimate": {
+    "base": "추정하다, 평가하다, 어림잡다",
+    "present": "추정한다, 평가한다, 어림잡는다",
+    "past": "추정했다, 평가했다, 어림잡았다",
+    "progressive": "추정하고 있는, 평가하고 있는, 어림잡고 있는",
+    "pastParticiple": "추정된, 평가된, 어림잡은"
+  },
+  "evoke": {
+    "base": "불러일으키다, 자아내다, 환기시키다",
+    "present": "불러일으킨다, 자아낸다, 환기시킨다",
+    "past": "불러일으켰다, 자아냈다, 환기시켰다",
+    "progressive": "불러일으키고 있는, 자아내고 있는, 환기시키고 있는",
+    "pastParticiple": "불러일으켜진, 자아내진, 환기된"
+  },
+  "exaggerate": {
+    "base": "과장하다, 부풀리다",
+    "present": "과장한다, 부풀린다",
+    "past": "과장했다, 부풀렸다",
+    "progressive": "과장하고 있는, 부풀리고 있는",
+    "pastParticiple": "과장된, 부풀려진"
+  },
+  "excite": {
+    "base": "흥분시키다, 신나게 하다, 자극하다",
+    "present": "흥분시킨다, 신나게 한다, 자극한다",
+    "past": "흥분시켰다, 신나게 했다, 자극했다",
+    "progressive": "흥분시키고 있는, 신나게 하고 있는, 자극하고 있는",
+    "pastParticiple": "흥분한, 신난, 자극된"
+  },
+  "exercise": {
+    "base": "운동하다, 운동시키다, 연습하다, 훈련하다",
+    "present": "운동한다, 운동시킨다, 연습한다, 훈련한다",
+    "past": "운동했다, 운동시켰다, 연습했다, 훈련했다",
+    "progressive": "운동하고 있는, 운동시키고 있는, 연습하고 있는, 훈련하고 있는",
+    "pastParticiple": "운동한, 운동된, 연습된, 훈련된"
+  },
+  "exit": {
+    "base": "나가다, 퇴장하다",
+    "present": "나간다, 퇴장한다",
+    "past": "나갔다, 퇴장했다",
+    "progressive": "나가고 있는, 퇴장하고 있는",
+    "pastParticiple": "나간, 퇴장한"
+  },
+  "explain": {
+    "base": "설명하다, 해명하다",
+    "present": "설명한다, 해명한다",
+    "past": "설명했다, 해명했다",
+    "progressive": "설명하고 있는, 해명하고 있는",
+    "pastParticiple": "설명된, 해명된"
+  },
+  "explore": {
+    "base": "탐험하다, 탐구하다, 조사하다",
+    "present": "탐험한다, 탐구한다, 조사한다",
+    "past": "탐험했다, 탐구했다, 조사했다",
+    "progressive": "탐험하고 있는, 탐구하고 있는, 조사하고 있는",
+    "pastParticiple": "탐험된, 탐구된, 조사된"
+  },
+  "expose": {
+    "base": "노출시키다, 드러내다, 폭로하다",
+    "present": "노출시킨다, 드러낸다, 폭로한다",
+    "past": "노출시켰다, 드러냈다, 폭로했다",
+    "progressive": "노출시키고 있는, 드러내고 있는, 폭로하고 있는",
+    "pastParticiple": "노출된, 드러난, 폭로된"
+  },
+  "extend": {
+    "base": "연장하다, 확장하다, 늘리다",
+    "present": "연장한다, 확장한다, 늘린다",
+    "past": "연장했다, 확장했다, 늘렸다",
+    "progressive": "연장하고 있는, 확장하고 있는, 늘리고 있는",
+    "pastParticiple": "연장된, 확장된, 늘어난"
+  },
+  "face": {
+    "base": "직면하다, 마주보다, 향하다",
+    "present": "직면한다, 마주본다, 향한다",
+    "past": "직면했다, 마주보았다, 향했다",
+    "progressive": "직면하고 있는, 마주보고 있는, 향하고 있는",
+    "pastParticiple": "직면한, 마주본, 향한"
+  },
+  "fade": {
+    "base": "희미해지다, 사라지다, 바래다",
+    "present": "희미해진다, 사라진다, 바랜다",
+    "past": "희미해졌다, 사라졌다, 바랬다",
+    "progressive": "희미해지고 있는, 사라지고 있는, 바래고 있는",
+    "pastParticiple": "희미해진, 사라진, 바랜"
+  },
+  "fail": {
+    "base": "실패하다, 낙제하다, ~하지 못하다",
+    "present": "실패한다, 낙제한다, ~하지 못한다",
+    "past": "실패했다, 낙제했다, ~하지 못했다",
+    "progressive": "실패하고 있는, 낙제하고 있는, ~하지 못하고 있는",
+    "pastParticiple": "실패한, 낙제한, ~하지 못한"
+  },
+  "exist": {
+    "base": "존재하다, 실재하다",
+    "present": "존재한다, 실재한다",
+    "past": "존재했다, 실재했다",
+    "progressive": "존재하고 있는, 실재하고 있는",
+    "pastParticiple": "존재한, 실재한"
+  },
+  "fancy": {
+    "base": "상상하다, 좋아하다, ~하고 싶다",
+    "present": "상상한다, 좋아한다, ~하고 싶다",
+    "past": "상상했다, 좋아했다, ~하고 싶었다",
+    "progressive": "상상하고 있는, 좋아하고 있는, ~하고 싶어 하는",
+    "pastParticiple": "상상한, 좋아하는, ~하고 싶은"
+  },
+  "fasten": {
+    "base": "고정시키다, 묶다, 채우다",
+    "present": "고정시킨다, 묶는다, 채운다",
+    "past": "고정시켰다, 묶었다, 채웠다",
+    "progressive": "고정시키고 있는, 묶고 있는, 채우고 있는",
+    "pastParticiple": "고정된, 묶인, 채워진"
+  },
+  "favor": {
+    "base": "찬성하다, 선호하다, 호의를 보이다",
+    "present": "찬성한다, 선호한다, 호의를 보인다",
+    "past": "찬성했다, 선호했다, 호의를 보였다",
+    "progressive": "찬성하고 있는, 선호하고 있는, 호의를 보이고 있는",
+    "pastParticiple": "찬성된, 선호된, 호의를 받은"
+  },
+  "fear": {
+    "base": "두려워하다, 무서워하다",
+    "present": "두려워한다, 무서워한다",
+    "past": "두려워했다, 무서워했다",
+    "progressive": "두려워하고 있는, 무서워하고 있는",
+    "pastParticiple": "두려워한, 무서워한"
+  },
+  "feed": {
+    "base": "먹이를 주다, 먹이다, 부양하다",
+    "present": "먹이를 준다, 먹인다, 부양한다",
+    "past": "먹이를 주었다, 먹였다, 부양했다",
+    "progressive": "먹이를 주고 있는, 먹이고 있는, 부양하고 있는",
+    "pastParticiple": "먹이를 받은, 먹여진, 부양된"
+  },
+  "fetch": {
+    "base": "가져오다, 데려오다, 팔리다",
+    "present": "가져온다, 데려온다, 팔린다",
+    "past": "가져왔다, 데려왔다, 팔렸다",
+    "progressive": "가져오고 있는, 데려오고 있는, 팔리고 있는",
+    "pastParticiple": "가져온, 데려온, 팔린"
+  },
+  "fight": {
+    "base": "싸우다, 싸움을 벌이다, 싸워 이기다",
+    "present": "싸운다, 싸움을 벌인다, 싸워 이긴다",
+    "past": "싸웠다, 싸움을 벌였다, 싸워 이겼다",
+    "progressive": "싸우고 있는, 싸움을 벌이고 있는, 싸워 이기고 있는",
+    "pastParticiple": "싸운, 싸워 이긴"
+  },
+  "fill": {
+    "base": "채우다, 가득 채우다, 채워지다",
+    "present": "채운다, 가득 채운다, 채워진다",
+    "past": "채웠다, 가득 채웠다, 채워졌다",
+    "progressive": "채우고 있는, 가득 채우고 있는, 채워지고 있는",
+    "pastParticiple": "채워진, 가득 채워진"
+  },
+  "film": {
+    "base": "촬영하다, 영화를 만들다",
+    "present": "촬영한다, 영화를 만든다",
+    "past": "촬영했다, 영화를 만들었다",
+    "progressive": "촬영하고 있는, 영화를 만들고 있는",
+    "pastParticiple": "촬영된, 영화화된"
+  },
+  "fire": {
+    "base": "불을 붙이다, 발사하다, 해고하다",
+    "present": "불을 붙인다, 발사한다, 해고한다",
+    "past": "불을 붙였다, 발사했다, 해고했다",
+    "progressive": "불을 붙이고 있는, 발사하고 있는, 해고하고 있는",
+    "pastParticiple": "불이 붙은, 발사된, 해고된"
+  },
+  "fit": {
+    "base": "~에 맞다, 적합하다, 알맞다",
+    "present": "~에 맞는다, 적합하다, 알맞다",
+    "past": "~에 맞았다, 적합했다, 알맞았다",
+    "progressive": "~에 맞고 있는, 적합하고 있는, 알맞은",
+    "pastParticiple": "~에 맞는, 적합한, 알맞은"
+  },
+  "fix": {
+    "base": "고치다, 수리하다, 고정시키다, 해결하다",
+    "present": "고친다, 수리한다, 고정시킨다, 해결한다",
+    "past": "고쳤다, 수리했다, 고정시켰다, 해결했다",
+    "progressive": "고치고 있는, 수리하고 있는, 고정시키고 있는, 해결하고 있는",
+    "pastParticiple": "고쳐진, 수리된, 고정된, 해결된"
+  },
+  "flash": {
+    "base": "번쩍이다, 섬광을 발하다, 빠르게 움직이다",
+    "present": "번쩍인다, 섬광을 발한다, 빠르게 움직인다",
+    "past": "번쩍였다, 섬광을 발했다, 빠르게 움직였다",
+    "progressive": "번쩍이고 있는, 섬광을 발하고 있는, 빠르게 움직이고 있는",
+    "pastParticiple": "번쩍인, 섬광을 발한, 빠르게 움직인"
+  },
+  "float": {
+    "base": "뜨다, 떠다니다, 띄우다",
+    "present": "뜬다, 떠다닌다, 띄운다",
+    "past": "떴다, 떠다녔다, 띄웠다",
+    "progressive": "뜨고 있는, 떠다니고 있는, 띄우고 있는",
+    "pastParticiple": "뜬, 떠다닌, 띄워진"
+  },
+  "flood": {
+    "base": "범람하다, 침수시키다, 물에 잠기다",
+    "present": "범람한다, 침수시킨다, 물에 잠긴다",
+    "past": "범람했다, 침수시켰다, 물에 잠겼다",
+    "progressive": "범람하고 있는, 침수시키고 있는, 물에 잠기고 있는",
+    "pastParticiple": "범람한, 침수된, 물에 잠긴"
+  },
+  "flow": {
+    "base": "흐르다, 흘러가다",
+    "present": "흐른다, 흘러간다",
+    "past": "흘렀다, 흘러갔다",
+    "progressive": "흐르고 있는, 흘러가고 있는",
+    "pastParticiple": "흐른, 흘러간"
+  },
+  "fly": {
+    "base": "날다, 비행하다, 날아가다",
+    "present": "난다, 비행한다, 날아간다",
+    "past": "날았다, 비행했다, 날아갔다",
+    "progressive": "날고 있는, 비행하고 있는, 날아가고 있는",
+    "pastParticiple": "날아간, 비행한"
+  },
+  "force": {
+    "base": "강요하다, 억지로 ~하게 하다, 힘을 가하다",
+    "present": "강요한다, 억지로 ~하게 한다, 힘을 가한다",
+    "past": "강요했다, 억지로 ~하게 했다, 힘을 가했다",
+    "progressive": "강요하고 있는, 억지로 ~하게 하고 있는, 힘을 가하고 있는",
+    "pastParticiple": "강요된, 억지로 된, 힘이 가해진"
+  },
+  "fold": {
+    "base": "접다, 접히다, 포기하다",
+    "present": "접는다, 접힌다, 포기한다",
+    "past": "접었다, 접혔다, 포기했다",
+    "progressive": "접고 있는, 접히고 있는, 포기하고 있는",
+    "pastParticiple": "접힌, 접힌, 포기한"
+  },
+  "form": {
+    "base": "형성하다, 만들다, 구성하다",
+    "present": "형성한다, 만든다, 구성한다",
+    "past": "형성했다, 만들었다, 구성했다",
+    "progressive": "형성하고 있는, 만들고 있는, 구성하고 있는",
+    "pastParticiple": "형성된, 만들어진, 구성된"
+  },
+  "forward": {
+    "base": "전송하다, 보내다, (의견을) 제시하다",
+    "present": "전송한다, 보낸다, 제시한다",
+    "past": "전송했다, 보냈다, 제시했다",
+    "progressive": "전송하고 있는, 보내고 있는, 제시하고 있는",
+    "pastParticiple": "전송된, 보내진, 제시된"
+  },
+  "frighten": {
+    "base": "겁주다, 놀라게 하다",
+    "present": "겁준다, 놀라게 한다",
+    "past": "겁줬다, 놀라게 했다",
+    "progressive": "겁주고 있는, 놀라게 하고 있는",
+    "pastParticiple": "겁먹은, 놀란"
+  },
+  "fry": {
+    "base": "튀기다, 볶다, 지지다",
+    "present": "튀긴다, 볶는다, 지진다",
+    "past": "튀겼다, 볶았다, 지졌다",
+    "progressive": "튀기고 있는, 볶고 있는, 지지고 있는",
+    "pastParticiple": "튀겨진, 볶아진, 지져진"
+  },
+  "gather": {
+    "base": "모으다, 모이다, 수집하다",
+    "present": "모은다, 모인다, 수집한다",
+    "past": "모았다, 모였다, 수집했다",
+    "progressive": "모으고 있는, 모이고 있는, 수집하고 있는",
+    "pastParticiple": "모인, 모여진, 수집된"
+  },
+  "gaze": {
+    "base": "응시하다, 쳐다보다",
+    "present": "응시한다, 쳐다본다",
+    "past": "응시했다, 쳐다봤다",
+    "progressive": "응시하고 있는, 쳐다보고 있는",
+    "pastParticiple": "응시한, 쳐다본"
+  },
+  "gesture": {
+    "base": "몸짓하다, 제스처를 취하다",
+    "present": "몸짓한다, 제스처를 취한다",
+    "past": "몸짓했다, 제스처를 취했다",
+    "progressive": "몸짓하고 있는, 제스처를 취하고 있는",
+    "pastParticiple": "몸짓한, 제스처를 취한"
+  },
+  "glance": {
+    "base": "흘긋 보다, 훑어보다",
+    "present": "흘긋 본다, 훑어본다",
+    "past": "흘긋 봤다, 훑어봤다",
+    "progressive": "흘긋 보고 있는, 훑어보고 있는",
+    "pastParticiple": "흘긋 본, 훑어본"
+  },
+  "glow": {
+    "base": "빛나다, 빛을 내다, 상기되다",
+    "present": "빛난다, 빛을 낸다, 상기된다",
+    "past": "빛났다, 빛을 냈다, 상기되었다",
+    "progressive": "빛나고 있는, 빛을 내고 있는, 상기되고 있는",
+    "pastParticiple": "빛난, 빛을 낸, 상기된"
+  },
+  "glue": {
+    "base": "붙이다, 접착하다",
+    "present": "붙인다, 접착한다",
+    "past": "붙였다, 접착했다",
+    "progressive": "붙이고 있는, 접착하고 있는",
+    "pastParticiple": "붙은, 접착된"
+  },
+  "grab": {
+    "base": "붙잡다, 움켜쥐다, 재빨리 잡다",
+    "present": "붙잡는다, 움켜쥔다, 재빨리 잡는다",
+    "past": "붙잡았다, 움켜쥐었다, 재빨리 잡았다",
+    "progressive": "붙잡고 있는, 움켜쥐고 있는, 재빨리 잡고 있는",
+    "pastParticiple": "붙잡힌, 움켜쥐어진, 재빨리 잡힌"
+  },
+  "graduate": {
+    "base": "졸업하다, 졸업시키다",
+    "present": "졸업한다, 졸업시킨다",
+    "past": "졸업했다, 졸업시켰다",
+    "progressive": "졸업하고 있는, 졸업시키고 있는",
+    "pastParticiple": "졸업한, 졸업시킨"
+  },
+  "grasp": {
+    "base": "붙잡다, 움켜쥐다, 이해하다",
+    "present": "붙잡는다, 움켜쥔다, 이해한다",
+    "past": "붙잡았다, 움켜쥐었다, 이해했다",
+    "progressive": "붙잡고 있는, 움켜쥐고 있는, 이해하고 있는",
+    "pastParticiple": "붙잡힌, 움켜쥐어진, 이해된"
+  },
+  "greet": {
+    "base": "인사하다, 환영하다, 맞이하다",
+    "present": "인사한다, 환영한다, 맞이한다",
+    "past": "인사했다, 환영했다, 맞이했다",
+    "progressive": "인사하고 있는, 환영하고 있는, 맞이하고 있는",
+    "pastParticiple": "인사한, 환영받은, 맞이된"
+  },
+  "grin": {
+    "base": "(크게) 씩 웃다, 이를 드러내고 웃다",
+    "present": "씩 웃는다, 이를 드러내고 웃는다",
+    "past": "씩 웃었다, 이를 드러내고 웃었다",
+    "progressive": "씩 웃고 있는, 이를 드러내고 웃고 있는",
+    "pastParticiple": "씩 웃은, 이를 드러내고 웃은"
+  },
+  "grind": {
+    "base": "갈다, 빻다, 으깨다",
+    "present": "간다, 빻는다, 으깬다",
+    "past": "갈았다, 빻았다, 으깼다",
+    "progressive": "갈고 있는, 빻고 있는, 으깨고 있는",
+    "pastParticiple": "갈린, 빻은, 으깨진"
+  },
+  "grip": {
+    "base": "꽉 잡다, 움켜쥐다, 이해하다",
+    "present": "꽉 잡는다, 움켜쥔다, 이해한다",
+    "past": "꽉 잡았다, 움켜쥐었다, 이해했다",
+    "progressive": "꽉 잡고 있는, 움켜쥐고 있는, 이해하고 있는",
+    "pastParticiple": "꽉 잡힌, 움켜쥐어진, 이해된"
+  },
+  "groan": {
+    "base": "신음하다, 앓는 소리를 내다",
+    "present": "신음한다, 앓는 소리를 낸다",
+    "past": "신음했다, 앓는 소리를 냈다",
+    "progressive": "신음하고 있는, 앓는 소리를 내고 있는",
+    "pastParticiple": "신음한, 앓는 소리를 낸"
+  },
+  "guard": {
+    "base": "지키다, 보호하다, 감시하다",
+    "present": "지킨다, 보호한다, 감시한다",
+    "past": "지켰다, 보호했다, 감시했다",
+    "progressive": "지키고 있는, 보호하고 있는, 감시하고 있는",
+    "pastParticiple": "지켜진, 보호된, 감시된"
+  },
+  "guess": {
+    "base": "추측하다, 짐작하다, 알아맞히다",
+    "present": "추측한다, 짐작한다, 알아맞힌다",
+    "past": "추측했다, 짐작했다, 알아맞혔다",
+    "progressive": "추측하고 있는, 짐작하고 있는, 알아맞히고 있는",
+    "pastParticiple": "추측한, 짐작한, 알아맞힌"
+  },
+  "hammer": {
+    "base": "망치로 치다, 두드리다",
+    "present": "망치로 친다, 두드린다",
+    "past": "망치로 쳤다, 두드렸다",
+    "progressive": "망치로 치고 있는, 두드리고 있는",
+    "pastParticiple": "망치로 친, 두드린"
+  },
+  "hand": {
+    "base": "건네주다, 전달하다",
+    "present": "건네준다, 전달한다",
+    "past": "건네주었다, 전달했다",
+    "progressive": "건네주고 있는, 전달하고 있는",
+    "pastParticiple": "건네진, 전달된"
+  },
+  "hang": {
+    "base": "걸다, 매달다, 매달리다",
+    "present": "건다, 매단다, 매달린다",
+    "past": "걸었다, 매달았다, 매달렸다",
+    "progressive": "걸고 있는, 매달고 있는, 매달리고 있는",
+    "pastParticiple": "걸린, 매달린"
+  },
+  "harm": {
+    "base": "해치다, 손상시키다",
+    "present": "해친다, 손상시킨다",
+    "past": "해쳤다, 손상시켰다",
+    "progressive": "해치고 있는, 손상시키고 있는",
+    "pastParticiple": "해친, 손상된"
+  },
+  "hasten": {
+    "base": "서두르다, 재촉하다",
+    "present": "서두른다, 재촉한다",
+    "past": "서둘렀다, 재촉했다",
+    "progressive": "서두르고 있는, 재촉하고 있는",
+    "pastParticiple": "서두른, 재촉된"
+  },
+  "hate": {
+    "base": "싫어하다, 미워하다",
+    "present": "싫어한다, 미워한다",
+    "past": "싫어했다, 미워했다",
+    "progressive": "싫어하고 있는, 미워하고 있는",
+    "pastParticiple": "싫어하는, 미워하는"
+  },
+  "haunt": {
+    "base": "출몰하다, 나타나다, 끊임없이 괴롭히다",
+    "present": "출몰한다, 나타난다, 끊임없이 괴롭힌다",
+    "past": "출몰했다, 나타났다, 끊임없이 괴롭혔다",
+    "progressive": "출몰하고 있는, 나타나고 있는, 끊임없이 괴롭히고 있는",
+    "pastParticiple": "출몰한, 나타난, 끊임없이 괴롭힌"
+  },
+  "heal": {
+    "base": "치유하다, 낫게 하다, 낫다",
+    "present": "치유한다, 낫게 한다, 낫는다",
+    "past": "치유했다, 낫게 했다, 나았다",
+    "progressive": "치유하고 있는, 낫게 하고 있는, 낫고 있는",
+    "pastParticiple": "치유된, 나은"
+  },
+  "harass": {
+    "base": "괴롭히다, 희롱하다, 성가시게 하다",
+    "present": "괴롭힌다, 희롱한다, 성가시게 한다",
+    "past": "괴롭혔다, 희롱했다, 성가시게 했다",
+    "progressive": "괴롭히고 있는, 희롱하고 있는, 성가시게 하고 있는",
+    "pastParticiple": "괴롭힘을 당한, 희롱당한, 성가신"
+  },
+  "heat": {
+    "base": "뜨겁게 하다, 가열하다, 데우다",
+    "present": "뜨겁게 한다, 가열한다, 데운다",
+    "past": "뜨겁게 했다, 가열했다, 데웠다",
+    "progressive": "뜨겁게 하고 있는, 가열하고 있는, 데우고 있는",
+    "pastParticiple": "뜨거워진, 가열된, 데워진"
+  },
+  "hesitate": {
+    "base": "망설이다, 주저하다",
+    "present": "망설인다, 주저한다",
+    "past": "망설였다, 주저했다",
+    "progressive": "망설이고 있는, 주저하고 있는",
+    "pastParticiple": "망설인, 주저한"
+  },
+  "hide": {
+    "base": "숨기다, 숨다, 감추다",
+    "present": "숨긴다, 숨는다, 감춘다",
+    "past": "숨겼다, 숨었다, 감췄다",
+    "progressive": "숨기고 있는, 숨고 있는, 감추고 있는",
+    "pastParticiple": "숨겨진, 숨은, 감춰진"
+  },
+  "hinder": {
+    "base": "방해하다, 저해하다, 훼방 놓다",
+    "present": "방해한다, 저해한다, 훼방 놓는다",
+    "past": "방해했다, 저해했다, 훼방 놓았다",
+    "progressive": "방해하고 있는, 저해하고 있는, 훼방 놓고 있는",
+    "pastParticiple": "방해된, 저해된, 훼방 놓인"
+  },
+  "hiss": {
+    "base": "쉿 소리를 내다, 쉿 하는 소리를 내다",
+    "present": "쉿 소리를 낸다, 쉿 하는 소리를 낸다",
+    "past": "쉿 소리를 냈다, 쉿 하는 소리를 냈다",
+    "progressive": "쉿 소리를 내고 있는, 쉿 하는 소리를 내고 있는",
+    "pastParticiple": "쉿 소리를 낸, 쉿 하는 소리를 낸"
+  },
+  "hit": {
+    "base": "때리다, 치다, 명중시키다",
+    "present": "때린다, 친다, 명중시킨다",
+    "past": "때렸다, 쳤다, 명중시켰다",
+    "progressive": "때리고 있는, 치고 있는, 명중시키고 있는",
+    "pastParticiple": "맞은, 명중한"
+  },
+  "hold": {
+    "base": "잡다, 들다, 쥐다, 개최하다, 유지하다",
+    "present": "잡는다, 든다, 쥔다, 개최한다, 유지한다",
+    "past": "잡았다, 들었다, 쥐었다, 개최했다, 유지했다",
+    "progressive": "잡고 있는, 들고 있는, 쥐고 있는, 개최하고 있는, 유지하고 있는",
+    "pastParticiple": "잡힌, 들린, 쥐어진, 개최된, 유지된"
+  },
+  "hollow": {
+    "base": "파다, 움푹 들어가게 하다",
+    "present": "판다, 움푹 들어가게 한다",
+    "past": "팠다, 움푹 들어가게 했다",
+    "progressive": "파고 있는, 움푹 들어가게 하고 있는",
+    "pastParticiple": "파인, 움푹 들어간"
+  },
+  "hook": {
+    "base": "걸다, 낚다, 유혹하다",
+    "present": "건다, 낚는다, 유혹한다",
+    "past": "걸었다, 낚았다, 유혹했다",
+    "progressive": "걸고 있는, 낚고 있는, 유혹하고 있는",
+    "pastParticiple": "걸린, 낚인, 유혹된"
+  },
+  "hop": {
+    "base": "깡충 뛰다, 한 발로 뛰다",
+    "present": "깡충 뛴다, 한 발로 뛴다",
+    "past": "깡충 뛰었다, 한 발로 뛰었다",
+    "progressive": "깡충 뛰고 있는, 한 발로 뛰고 있는",
+    "pastParticiple": "깡충 뛴, 한 발로 뛴"
+  },
+  "hope": {
+    "base": "바라다, 희망하다",
+    "present": "바란다, 희망한다",
+    "past": "바랐다, 희망했다",
+    "progressive": "바라고 있는, 희망하고 있는",
+    "pastParticiple": "바란, 희망한"
+  },
+  "heap": {
+    "base": "쌓아 올리다, 쌓다, 수북이 쌓다",
+    "present": "쌓아 올린다, 쌓는다, 수북이 쌓는다",
+    "past": "쌓아 올렸다, 쌓았다, 수북이 쌓았다",
+    "progressive": "쌓아 올리고 있는, 쌓고 있는, 수북이 쌓고 있는",
+    "pastParticiple": "쌓아 올린, 쌓인, 수북이 쌓인"
+  },
+  "horrify": {
+    "base": "소름 끼치게 하다, 경악하게 하다",
+    "present": "소름 끼치게 한다, 경악하게 한다",
+    "past": "소름 끼치게 했다, 경악하게 했다",
+    "progressive": "소름 끼치게 하고 있는, 경악하게 하고 있는",
+    "pastParticiple": "소름 끼친, 경악한"
+  },
+  "hug": {
+    "base": "껴안다, 포옹하다",
+    "present": "껴안는다, 포옹한다",
+    "past": "껴안았다, 포옹했다",
+    "progressive": "껴안고 있는, 포옹하고 있는",
+    "pastParticiple": "껴안은, 포옹된"
+  },
+  "hum": {
+    "base": "콧노래를 부르다, 흥얼거리다, 윙윙거리다",
+    "present": "콧노래를 부른다, 흥얼거린다, 윙윙거린다",
+    "past": "콧노래를 불렀다, 흥얼거렸다, 윙윙거렸다",
+    "progressive": "콧노래를 부르고 있는, 흥얼거리고 있는, 윙윙거리고 있는",
+    "pastParticiple": "콧노래 부른, 흥얼거린, 윙윙거린"
+  },
+  "hunt": {
+    "base": "사냥하다, 뒤쫓다, 찾아다니다",
+    "present": "사냥한다, 뒤쫓는다, 찾아다닌다",
+    "past": "사냥했다, 뒤쫓았다, 찾아다녔다",
+    "progressive": "사냥하고 있는, 뒤쫓고 있는, 찾아다니고 있는",
+    "pastParticiple": "사냥한, 뒤쫓긴, 찾아다닌"
+  },
+  "hurry": {
+    "base": "서두르다, 재촉하다",
+    "present": "서두른다, 재촉한다",
+    "past": "서둘렀다, 재촉했다",
+    "progressive": "서두르고 있는, 재촉하고 있는",
+    "pastParticiple": "서두른, 재촉된"
+  },
+  "hurt": {
+    "base": "다치게 하다, 아프게 하다, 상처를 주다",
+    "present": "다치게 한다, 아프게 한다, 상처를 준다",
+    "past": "다치게 했다, 아프게 했다, 상처를 주었다",
+    "progressive": "다치게 하고 있는, 아프게 하고 있는, 상처를 주고 있는",
+    "pastParticiple": "다친, 아픈, 상처받은"
+  },
+  "hush": {
+    "base": "조용히 시키다, 잠잠하게 하다",
+    "present": "조용히 시킨다, 잠잠하게 한다",
+    "past": "조용히 시켰다, 잠잠하게 했다",
+    "progressive": "조용히 시키고 있는, 잠잠하게 하고 있는",
+    "pastParticiple": "조용해진, 잠잠해진"
+  },
+  "ignore": {
+    "base": "무시하다, 간과하다",
+    "present": "무시한다, 간과한다",
+    "past": "무시했다, 간과했다",
+    "progressive": "무시하고 있는, 간과하고 있는",
+    "pastParticiple": "무시된, 간과된"
+  },
+  "imitate": {
+    "base": "모방하다, 흉내 내다, 본뜨다",
+    "present": "모방한다, 흉내 낸다, 본뜬다",
+    "past": "모방했다, 흉내 냈다, 본떴다",
+    "progressive": "모방하고 있는, 흉내 내고 있는, 본뜨고 있는",
+    "pastParticiple": "모방된, 흉내 낸, 본뜬"
+  },
+  "import": {
+    "base": "수입하다, 들여오다",
+    "present": "수입한다, 들여온다",
+    "past": "수입했다, 들여왔다",
+    "progressive": "수입하고 있는, 들여오고 있는",
+    "pastParticiple": "수입된, 들여온"
+  },
+  "impress": {
+    "base": "깊은 인상을 주다, 감명을 주다",
+    "present": "깊은 인상을 준다, 감명을 준다",
+    "past": "깊은 인상을 주었다, 감명을 주었다",
+    "progressive": "깊은 인상을 주고 있는, 감명을 주고 있는",
+    "pastParticiple": "깊은 인상을 받은, 감명받은"
+  },
+  "improve": {
+    "base": "향상시키다, 개선하다, 나아지다",
+    "present": "향상시킨다, 개선한다, 나아진다",
+    "past": "향상시켰다, 개선했다, 나아졌다",
+    "progressive": "향상시키고 있는, 개선하고 있는, 나아지고 있는",
+    "pastParticiple": "향상된, 개선된, 나아진"
+  },
+  "increase": {
+    "base": "증가시키다, 늘리다, 증가하다",
+    "present": "증가시킨다, 늘린다, 증가한다",
+    "past": "증가시켰다, 늘렸다, 증가했다",
+    "progressive": "증가시키고 있는, 늘리고 있는, 증가하고 있는",
+    "pastParticiple": "증가된, 늘어난, 증가한"
+  },
+  "infect": {
+    "base": "감염시키다, 오염시키다",
+    "present": "감염시킨다, 오염시킨다",
+    "past": "감염시켰다, 오염시켰다",
+    "progressive": "감염시키고 있는, 오염시키고 있는",
+    "pastParticiple": "감염된, 오염된"
+  },
+  "inform": {
+    "base": "알리다, 통지하다, 정보를 주다",
+    "present": "알린다, 통지한다, 정보를 준다",
+    "past": "알렸다, 통지했다, 정보를 주었다",
+    "progressive": "알리고 있는, 통지하고 있는, 정보를 주고 있는",
+    "pastParticiple": "알려진, 통지된, 정보를 받은"
+  },
+  "injure": {
+    "base": "다치게 하다, 부상을 입히다, 손상시키다",
+    "present": "다치게 한다, 부상을 입힌다, 손상시킨다",
+    "past": "다치게 했다, 부상을 입혔다, 손상시켰다",
+    "progressive": "다치게 하고 있는, 부상을 입히고 있는, 손상시키고 있는",
+    "pastParticiple": "다친, 부상당한, 손상된"
+  },
+  "insist": {
+    "base": "주장하다, 고집하다, 강하게 요구하다",
+    "present": "주장한다, 고집한다, 강하게 요구한다",
+    "past": "주장했다, 고집했다, 강하게 요구했다",
+    "progressive": "주장하고 있는, 고집하고 있는, 강하게 요구하고 있는",
+    "pastParticiple": "주장된, 고집된, 강하게 요구된"
+  },
+  "inspire": {
+    "base": "영감을 주다, 고무하다, 불어넣다",
+    "present": "영감을 준다, 고무한다, 불어넣는다",
+    "past": "영감을 주었다, 고무했다, 불어넣었다",
+    "progressive": "영감을 주고 있는, 고무하고 있는, 불어넣고 있는",
+    "pastParticiple": "영감을 받은, 고무된, 불어넣어진"
+  },
+  "interest": {
+    "base": "흥미를 유발하다, 관심을 끌다",
+    "present": "흥미를 유발한다, 관심을 끈다",
+    "past": "흥미를 유발했다, 관심을 끌었다",
+    "progressive": "흥미를 유발하고 있는, 관심을 끌고 있는",
+    "pastParticiple": "흥미를 느끼는, 관심을 가진"
+  },
+  "interview": {
+    "base": "인터뷰하다, 면접하다",
+    "present": "인터뷰한다, 면접한다",
+    "past": "인터뷰했다, 면접했다",
+    "progressive": "인터뷰하고 있는, 면접하고 있는",
+    "pastParticiple": "인터뷰한, 면접한"
+  },
+  "invent": {
+    "base": "발명하다, 고안하다, 지어내다",
+    "present": "발명한다, 고안한다, 지어낸다",
+    "past": "발명했다, 고안했다, 지어냈다",
+    "progressive": "발명하고 있는, 고안하고 있는, 지어내고 있는",
+    "pastParticiple": "발명된, 고안된, 지어낸"
+  },
+  "invite": {
+    "base": "초대하다, 초청하다, 요청하다",
+    "present": "초대한다, 초청한다, 요청한다",
+    "past": "초대했다, 초청했다, 요청했다",
+    "progressive": "초대하고 있는, 초청하고 있는, 요청하고 있는",
+    "pastParticiple": "초대된, 초청된, 요청된"
+  },
+  "involve": {
+    "base": "관련시키다, 포함하다, 수반하다",
+    "present": "관련시킨다, 포함한다, 수반한다",
+    "past": "관련시켰다, 포함했다, 수반했다",
+    "progressive": "관련시키고 있는, 포함하고 있는, 수반하고 있는",
+    "pastParticiple": "관련된, 포함된, 수반된"
+  },
+  "irritate": {
+    "base": "짜증나게 하다, 자극하다, 화나게 하다",
+    "present": "짜증나게 한다, 자극한다, 화나게 한다",
+    "past": "짜증나게 했다, 자극했다, 화나게 했다",
+    "progressive": "짜증나게 하고 있는, 자극하고 있는, 화나게 하고 있는",
+    "pastParticiple": "짜증 난, 자극된, 화난"
+  },
+  "itch": {
+    "base": "가렵다, 간지럽다, 가렵게 하다",
+    "present": "가렵다, 간지럽다, 가렵게 한다",
+    "past": "가려웠다, 간지러웠다, 가렵게 했다",
+    "progressive": "가렵고 있는, 간지럽고 있는, 가렵게 하고 있는",
+    "pastParticiple": "가려운, 간지러운"
+  },
+  "jail": {
+    "base": "투옥하다, 감옥에 가두다",
+    "present": "투옥한다, 감옥에 가둔다",
+    "past": "투옥했다, 감옥에 가두었다",
+    "progressive": "투옥하고 있는, 감옥에 가두고 있는",
+    "pastParticiple": "투옥된, 감옥에 갇힌"
+  },
+  "jam": {
+    "base": "쑤셔 넣다, 꽉 채우다, 막히게 하다",
+    "present": "쑤셔 넣는다, 꽉 채운다, 막히게 한다",
+    "past": "쑤셔 넣었다, 꽉 채웠다, 막히게 했다",
+    "progressive": "쑤셔 넣고 있는, 꽉 채우고 있는, 막히게 하고 있는",
+    "pastParticiple": "쑤셔 넣은, 꽉 찬, 막힌"
+  },
+  "jog": {
+    "base": "조깅하다, 가볍게 뛰다",
+    "present": "조깅한다, 가볍게 뛴다",
+    "past": "조깅했다, 가볍게 뛰었다",
+    "progressive": "조깅하고 있는, 가볍게 뛰고 있는",
+    "pastParticiple": "조깅한, 가볍게 뛴"
+  },
+  "join": {
+    "base": "합류하다, 연결하다, 참여하다",
+    "present": "합류한다, 연결한다, 참여한다",
+    "past": "합류했다, 연결했다, 참여했다",
+    "progressive": "합류하고 있는, 연결하고 있는, 참여하고 있는",
+    "pastParticiple": "합류한, 연결된, 참여한"
+  },
+  "joke": {
+    "base": "농담하다, 장난치다",
+    "present": "농담한다, 장난친다",
+    "past": "농담했다, 장난쳤다",
+    "progressive": "농담하고 있는, 장난치고 있는",
+    "pastParticiple": "농담한, 장난친"
+  },
+  "judge": {
+    "base": "판단하다, 심판하다, 평가하다",
+    "present": "판단한다, 심판한다, 평가한다",
+    "past": "판단했다, 심판했다, 평가했다",
+    "progressive": "판단하고 있는, 심판하고 있는, 평가하고 있는",
+    "pastParticiple": "판단된, 심판된, 평가된"
+  },
+  "juggle": {
+    "base": "저글링하다, 잘 처리하다, 교묘하게 다루다",
+    "present": "저글링한다, 잘 처리한다, 교묘하게 다룬다",
+    "past": "저글링했다, 잘 처리했다, 교묘하게 다루었다",
+    "progressive": "저글링하고 있는, 잘 처리하고 있는, 교묘하게 다루고 있는",
+    "pastParticiple": "저글링된, 잘 처리된, 교묘하게 다룬"
+  },
+  "jump": {
+    "base": "점프하다, 뛰다, 뛰어넘다",
+    "present": "점프한다, 뛴다, 뛰어넘는다",
+    "past": "점프했다, 뛰었다, 뛰어넘었다",
+    "progressive": "점프하고 있는, 뛰고 있는, 뛰어넘고 있는",
+    "pastParticiple": "점프한, 뛴, 뛰어넘은"
+  },
+  "kick": {
+    "base": "차다, 발로 차다",
+    "present": "찬다, 발로 찬다",
+    "past": "찼다, 발로 찼다",
+    "progressive": "차고 있는, 발로 차고 있는",
+    "pastParticiple": "찬, 발로 찬"
+  },
+  "kiss": {
+    "base": "입 맞추다, 키스하다",
+    "present": "입 맞춘다, 키스한다",
+    "past": "입 맞췄다, 키스했다",
+    "progressive": "입 맞추고 있는, 키스하고 있는",
+    "pastParticiple": "입 맞춘, 키스한"
+  },
+  "kneel": {
+    "base": "무릎 꿇다",
+    "present": "무릎 꿇는다",
+    "past": "무릎 꿇었다",
+    "progressive": "무릎 꿇고 있는",
+    "pastParticiple": "무릎 꿇은"
+  },
+  "knit": {
+    "base": "뜨개질하다, 뜨다, 결합시키다",
+    "present": "뜨개질한다, 뜬다, 결합시킨다",
+    "past": "뜨개질했다, 떴다, 결합시켰다",
+    "progressive": "뜨개질하고 있는, 뜨고 있는, 결합시키고 있는",
+    "pastParticiple": "뜨개질한, 떠진, 결합된"
+  },
+  "knock": {
+    "base": "두드리다, 노크하다, 때리다",
+    "present": "두드린다, 노크한다, 때린다",
+    "past": "두드렸다, 노크했다, 때렸다",
+    "progressive": "두드리고 있는, 노크하고 있는, 때리고 있는",
+    "pastParticiple": "두드린, 노크한, 맞은"
+  },
+  "knot": {
+    "base": "매듭을 묶다, 묶다, 엉키게 하다",
+    "present": "매듭을 묶는다, 묶는다, 엉키게 한다",
+    "past": "매듭을 묶었다, 묶었다, 엉키게 했다",
+    "progressive": "매듭을 묶고 있는, 묶고 있는, 엉키게 하고 있는",
+    "pastParticiple": "매듭이 묶인, 묶인, 엉킨"
+  },
+  "lack": {
+    "base": "부족하다, ~이 없다",
+    "present": "부족하다, ~이 없다",
+    "past": "부족했다, ~이 없었다",
+    "progressive": "부족하고 있는, ~이 없는",
+    "pastParticiple": "부족한, ~이 없는"
+  },
+  "land": {
+    "base": "착륙하다, 상륙하다, 획득하다",
+    "present": "착륙한다, 상륙한다, 획득한다",
+    "past": "착륙했다, 상륙했다, 획득했다",
+    "progressive": "착륙하고 있는, 상륙하고 있는, 획득하고 있는",
+    "pastParticiple": "착륙한, 상륙한, 획득한"
+  },
+  "last": {
+    "base": "지속되다, 계속되다, 버티다",
+    "present": "지속된다, 계속된다, 버틴다",
+    "past": "지속되었다, 계속되었다, 버텼다",
+    "progressive": "지속되고 있는, 계속되고 있는, 버티고 있는",
+    "pastParticiple": "지속된, 계속된, 버틴"
+  },
+  "laugh": {
+    "base": "웃다, 비웃다",
+    "present": "웃는다, 비웃는다",
+    "past": "웃었다, 비웃었다",
+    "progressive": "웃고 있는, 비웃고 있는",
+    "pastParticiple": "웃은, 비웃은"
+  },
+  "lay": {
+    "base": "놓다, 두다, 눕히다",
+    "present": "놓는다, 둔다, 눕힌다",
+    "past": "놓았다, 두었다, 눕혔다",
+    "progressive": "놓고 있는, 두고 있는, 눕히고 있는",
+    "pastParticiple": "놓인, 놓여진, 눕혀진"
+  },
+  "leak": {
+    "base": "새다, 누설하다, 누출되다",
+    "present": "샌다, 누설한다, 누출된다",
+    "past": "샜다, 누설했다, 누출되었다",
+    "progressive": "새고 있는, 누설하고 있는, 누출되고 있는",
+    "pastParticiple": "샌, 누설된, 누출된"
+  },
+  "lean": {
+    "base": "기대다, 기울다, 숙이다",
+    "present": "기댄다, 기운다, 숙인다",
+    "past": "기대었다, 기울었다, 숙였다",
+    "progressive": "기대고 있는, 기울고 있는, 숙이고 있는",
+    "pastParticiple": "기댄, 기울어진, 숙인"
+  },
+  "leap": {
+    "base": "도약하다, 뛰어오르다, 급증하다",
+    "present": "도약한다, 뛰어오른다, 급증한다",
+    "past": "도약했다, 뛰어올랐다, 급증했다",
+    "progressive": "도약하고 있는, 뛰어오르고 있는, 급증하고 있는",
+    "pastParticiple": "도약한, 뛰어오른, 급증한"
+  },
+  "lend": {
+    "base": "빌려주다, 대여하다",
+    "present": "빌려준다, 대여한다",
+    "past": "빌려주었다, 대여했다",
+    "progressive": "빌려주고 있는, 대여하고 있는",
+    "pastParticiple": "빌려준, 대여된"
+  },
+  "lessen": {
+    "base": "줄이다, 감소시키다, 줄어들다",
+    "present": "줄인다, 감소시킨다, 줄어든다",
+    "past": "줄였다, 감소시켰다, 줄어들었다",
+    "progressive": "줄이고 있는, 감소시키고 있는, 줄어들고 있는",
+    "pastParticiple": "줄어든, 감소된"
+  },
+  "lick": {
+    "base": "핥다",
+    "present": "핥는다",
+    "past": "핥았다",
+    "progressive": "핥고 있는",
+    "pastParticiple": "핥은"
+  },
+  "lie": {
+    "base": "눕다, 거짓말하다",
+    "present": "눕는다, 거짓말한다",
+    "past": "누웠다, 거짓말했다",
+    "progressive": "눕고 있는, 거짓말하고 있는",
+    "pastParticiple": "누운, 거짓말한"
+  },
+  "light": {
+    "base": "불을 붙이다, 밝히다, 비추다",
+    "present": "불을 붙인다, 밝힌다, 비춘다",
+    "past": "불을 붙였다, 밝혔다, 비추었다",
+    "progressive": "불을 붙이고 있는, 밝히고 있는, 비추고 있는",
+    "pastParticiple": "불이 붙은, 밝혀진, 비춰진"
+  },
+  "like": {
+    "base": "좋아하다, ~하고 싶다",
+    "present": "좋아한다, ~하고 싶다",
+    "past": "좋아했다, ~하고 싶었다",
+    "progressive": "좋아하고 있는, ~하고 싶어 하는",
+    "pastParticiple": "좋아하는, ~하고 싶은"
+  },
+  "list": {
+    "base": "목록을 만들다, 나열하다",
+    "present": "목록을 만든다, 나열한다",
+    "past": "목록을 만들었다, 나열했다",
+    "progressive": "목록을 만들고 있는, 나열하고 있는",
+    "pastParticiple": "목록에 있는, 나열된"
+  },
+  "listen": {
+    "base": "듣다, 경청하다",
+    "present": "듣는다, 경청한다",
+    "past": "들었다, 경청했다",
+    "progressive": "듣고 있는, 경청하고 있는",
+    "pastParticiple": "들은, 경청한"
+  },
+  "live": {
+    "base": "살다, 거주하다, 생존하다",
+    "present": "산다, 거주한다, 생존한다",
+    "past": "살았다, 거주했다, 생존했다",
+    "progressive": "살고 있는, 거주하고 있는, 생존하고 있는",
+    "pastParticiple": "살아 있는, 거주한, 생존한"
+  },
+  "load": {
+    "base": "싣다, 적재하다, 채우다",
+    "present": "싣는다, 적재한다, 채운다",
+    "past": "실었다, 적재했다, 채웠다",
+    "progressive": "싣고 있는, 적재하고 있는, 채우고 있는",
+    "pastParticiple": "실린, 적재된, 채워진"
+  },
+  "lock": {
+    "base": "잠그다, 잠기다, 고정시키다",
+    "present": "잠근다, 잠긴다, 고정시킨다",
+    "past": "잠갔다, 잠겼다, 고정시켰다",
+    "progressive": "잠그고 있는, 잠기고 있는, 고정시키고 있는",
+    "pastParticiple": "잠긴, 고정된"
+  },
+  "long": {
+    "base": "열망하다, 갈망하다",
+    "present": "열망한다, 갈망한다",
+    "past": "열망했다, 갈망했다",
+    "progressive": "열망하고 있는, 갈망하고 있는",
+    "pastParticiple": "열망한, 갈망한"
+  },
+  "loosen": {
+    "base": "늦추다, 풀다, 느슨하게 하다",
+    "present": "늦춘다, 푼다, 느슨하게 한다",
+    "past": "늦췄다, 풀었다, 느슨하게 했다",
+    "progressive": "늦추고 있는, 풀고 있는, 느슨하게 하고 있는",
+    "pastParticiple": "늦춰진, 풀린, 느슨해진"
+  },
+  "lower": {
+    "base": "낮추다, 내리다, 줄이다",
+    "present": "낮춘다, 내린다, 줄인다",
+    "past": "낮췄다, 내렸다, 줄였다",
+    "progressive": "낮추고 있는, 내리고 있는, 줄이고 있는",
+    "pastParticiple": "낮춰진, 내려진, 줄어든"
+  },
+  "lump": {
+    "base": "덩어리로 만들다, 한데 모으다",
+    "present": "덩어리로 만든다, 한데 모은다",
+    "past": "덩어리로 만들었다, 한데 모았다",
+    "progressive": "덩어리로 만들고 있는, 한데 모으고 있는",
+    "pastParticiple": "덩어리로 된, 한데 모인"
+  },
+  "mail": {
+    "base": "우편으로 보내다, 우송하다",
+    "present": "우편으로 보낸다, 우송한다",
+    "past": "우편으로 보냈다, 우송했다",
+    "progressive": "우편으로 보내고 있는, 우송하고 있는",
+    "pastParticiple": "우편으로 보내진, 우송된"
+  },
+  "march": {
+    "base": "행진하다, 걷다",
+    "present": "행진한다, 걷는다",
+    "past": "행진했다, 걸었다",
+    "progressive": "행진하고 있는, 걷고 있는",
+    "pastParticiple": "행진한, 걸은"
+  },
+  "mark": {
+    "base": "표시하다, 특징짓다, 점수를 매기다",
+    "present": "표시한다, 특징짓는다, 점수를 매긴다",
+    "past": "표시했다, 특징지었다, 점수를 매겼다",
+    "progressive": "표시하고 있는, 특징짓고 있는, 점수를 매기고 있는",
+    "pastParticiple": "표시된, 특징지어진, 점수가 매겨진"
+  },
+  "marry": {
+    "base": "결혼하다, 결혼시키다",
+    "present": "결혼한다, 결혼시킨다",
+    "past": "결혼했다, 결혼시켰다",
+    "progressive": "결혼하고 있는, 결혼시키고 있는",
+    "pastParticiple": "결혼한, 결혼시킨"
+  },
+  "mask": {
+    "base": "가면을 씌우다, 숨기다, 가리다",
+    "present": "가면을 씌운다, 숨긴다, 가린다",
+    "past": "가면을 씌웠다, 숨겼다, 가렸다",
+    "progressive": "가면을 씌우고 있는, 숨기고 있는, 가리고 있는",
+    "pastParticiple": "가면을 쓴, 숨겨진, 가려진"
+  },
+  "match": {
+    "base": "어울리다, 짝을 이루다, 시합하다",
+    "present": "어울린다, 짝을 이룬다, 시합한다",
+    "past": "어울렸다, 짝을 이루었다, 시합했다",
+    "progressive": "어울리고 있는, 짝을 이루고 있는, 시합하고 있는",
+    "pastParticiple": "어울리는, 짝을 이룬, 시합한"
+  },
+  "matter": {
+    "base": "중요하다, 문제되다",
+    "present": "중요하다, 문제된다",
+    "past": "중요했다, 문제되었다",
+    "progressive": "중요하고 있는, 문제되고 있는",
+    "pastParticiple": "중요한, 문제된"
+  },
+  "measure": {
+    "base": "측정하다, 재다, 평가하다",
+    "present": "측정한다, 잰다, 평가한다",
+    "past": "측정했다, 쟀다, 평가했다",
+    "progressive": "측정하고 있는, 재고 있는, 평가하고 있는",
+    "pastParticiple": "측정된, 재어진, 평가된"
+  },
+  "melt": {
+    "base": "녹이다, 녹다, 사라지다",
+    "present": "녹인다, 녹는다, 사라진다",
+    "past": "녹였다, 녹았다, 사라졌다",
+    "progressive": "녹이고 있는, 녹고 있는, 사라지고 있는",
+    "pastParticiple": "녹은, 사라진"
+  },
+  "memorize": {
+    "base": "암기하다, 기억하다",
+    "present": "암기한다, 기억한다",
+    "past": "암기했다, 기억했다",
+    "progressive": "암기하고 있는, 기억하고 있는",
+    "pastParticiple": "암기된, 기억된"
+  },
+  "mend": {
+    "base": "의미하다, 뜻하다, 의도하다",
+    "present": "의미한다, 뜻한다, 의도한다",
+    "past": "의미했다, 뜻했다, 의도했다",
+    "progressive": "의미하고 있는, 뜻하고 있는, 의도하고 있는",
+    "pastParticiple": "의미된, 뜻한, 의도된"
+  },
+  "mention": {
+    "base": "언급하다, 말하다",
+    "present": "언급한다, 말한다",
+    "past": "언급했다, 말했다",
+    "progressive": "언급하고 있는, 말하고 있는",
+    "pastParticiple": "언급된, 말해진"
+  },
+  "merge": {
+    "base": "합병하다, 통합하다, 합쳐지다",
+    "present": "합병한다, 통합한다, 합쳐진다",
+    "past": "합병했다, 통합했다, 합쳐졌다",
+    "progressive": "합병하고 있는, 통합하고 있는, 합쳐지고 있는",
+    "pastParticiple": "합병된, 통합된, 합쳐진"
+  },
+  "milk": {
+    "base": "젖을 짜다, 우유를 짜다",
+    "present": "젖을 짠다, 우유를 짠다",
+    "past": "젖을 짰다, 우유를 짰다",
+    "progressive": "젖을 짜고 있는, 우유를 짜고 있는",
+    "pastParticiple": "젖을 짠, 우유를 짠"
+  },
+  "mind": {
+    "base": "신경 쓰다, 꺼리다, 조심하다",
+    "present": "신경 쓴다, 꺼린다, 조심한다",
+    "past": "신경 썼다, 꺼렸다, 조심했다",
+    "progressive": "신경 쓰고 있는, 꺼리고 있는, 조심하고 있는",
+    "pastParticiple": "신경 쓴, 꺼린, 조심한"
+  },
+  "miss": {
+    "base": "놓치다, 그리워하다, 빠뜨리다",
+    "present": "놓친다, 그리워한다, 빠뜨린다",
+    "past": "놓쳤다, 그리워했다, 빠뜨렸다",
+    "progressive": "놓치고 있는, 그리워하고 있는, 빠뜨리고 있는",
+    "pastParticiple": "놓친, 그리워한, 빠뜨린"
+  },
+  "mix": {
+    "base": "섞다, 혼합하다, 섞이다",
+    "present": "섞는다, 혼합한다, 섞인다",
+    "past": "섞었다, 혼합했다, 섞였다",
+    "progressive": "섞고 있는, 혼합하고 있는, 섞이고 있는",
+    "pastParticiple": "섞인, 혼합된"
+  },
+  "moan": {
+    "base": "신음하다, 한숨 쉬다, 불평하다",
+    "present": "신음한다, 한숨 쉰다, 불평한다",
+    "past": "신음했다, 한숨 쉬었다, 불평했다",
+    "progressive": "신음하고 있는, 한숨 쉬고 있는, 불평하고 있는",
+    "pastParticiple": "신음한, 한숨 쉰, 불평한"
+  },
+  "model": {
+    "base": "모형으로 만들다, 본보기로 삼다, 모델을 하다",
+    "present": "모형으로 만든다, 본보기로 삼는다, 모델을 한다",
+    "past": "모형으로 만들었다, 본보기로 삼았다, 모델을 했다",
+    "progressive": "모형으로 만들고 있는, 본보기로 삼고 있는, 모델을 하고 있는",
+    "pastParticiple": "모형으로 만들어진, 본보기로 삼은, 모델을 한"
+  },
+  "modify": {
+    "base": "수정하다, 변경하다, 수식하다",
+    "present": "수정한다, 변경한다, 수식한다",
+    "past": "수정했다, 변경했다, 수식했다",
+    "progressive": "수정하고 있는, 변경하고 있는, 수식하고 있는",
+    "pastParticiple": "수정된, 변경된, 수식된"
+  },
+  "mourn": {
+    "base": "애도하다, 슬퍼하다, 한탄하다",
+    "present": "애도한다, 슬퍼한다, 한탄한다",
+    "past": "애도했다, 슬퍼했다, 한탄했다",
+    "progressive": "애도하고 있는, 슬퍼하고 있는, 한탄하고 있는",
+    "pastParticiple": "애도한, 슬퍼한, 한탄한"
+  },
+  "mow": {
+    "base": "(풀 등을) 베다, 깎다",
+    "present": "벤다, 깎는다",
+    "past": "베었다, 깎았다",
+    "progressive": "베고 있는, 깎고 있는",
+    "pastParticiple": "벤, 깎은"
+  },
+  "murmur": {
+    "base": "중얼거리다, 속삭이다, 웅성거리다",
+    "present": "중얼거린다, 속삭인다, 웅성거린다",
+    "past": "중얼거렸다, 속삭였다, 웅성거렸다",
+    "progressive": "중얼거리고 있는, 속삭이고 있는, 웅성거리고 있는",
+    "pastParticiple": "중얼거린, 속삭인, 웅성거린"
+  },
+  "nail": {
+    "base": "못 박다, 고정시키다, 성공시키다",
+    "present": "못 박는다, 고정시킨다, 성공시킨다",
+    "past": "못 박았다, 고정시켰다, 성공시켰다",
+    "progressive": "못 박고 있는, 고정시키고 있는, 성공시키고 있는",
+    "pastParticiple": "못 박힌, 고정된, 성공시킨"
+  },
+  "name": {
+    "base": "이름 짓다, 지명하다, 부르다",
+    "present": "이름 짓는다, 지명한다, 부른다",
+    "past": "이름 지었다, 지명했다, 불렀다",
+    "progressive": "이름 짓고 있는, 지명하고 있는, 부르고 있는",
+    "pastParticiple": "이름 지어진, 지명된, 불린"
+  },
+  "narrow": {
+    "base": "좁히다, 줄이다, 좁아지다",
+    "present": "좁힌다, 줄인다, 좁아진다",
+    "past": "좁혔다, 줄였다, 좁아졌다",
+    "progressive": "좁히고 있는, 줄이고 있는, 좁아지고 있는",
+    "pastParticiple": "좁혀진, 줄어든, 좁아진"
+  },
+  "neglect": {
+    "base": "소홀히 하다, 방치하다, 무시하다",
+    "present": "소홀히 한다, 방치한다, 무시한다",
+    "past": "소홀히 했다, 방치했다, 무시했다",
+    "progressive": "소홀히 하고 있는, 방치하고 있는, 무시하고 있는",
+    "pastParticiple": "소홀히 된, 방치된, 무시된"
+  },
+  "nerve": {
+    "base": "용기를 북돋우다, 용기를 주다",
+    "present": "용기를 북돋운다, 용기를 준다",
+    "past": "용기를 북돋웠다, 용기를 주었다",
+    "progressive": "용기를 북돋우고 있는, 용기를 주고 있는",
+    "pastParticiple": "용기를 북돋운, 용기를 받은"
+  },
+  "nest": {
+    "base": "둥지를 짓다, 둥지를 틀다",
+    "present": "둥지를 짓는다, 둥지를 튼다",
+    "past": "둥지를 지었다, 둥지를 틀었다",
+    "progressive": "둥지를 짓고 있는, 둥지를 틀고 있는",
+    "pastParticiple": "둥지를 지은, 둥지를 튼"
+  },
+  "nod": {
+    "base": "끄덕이다, 고개를 끄덕이다",
+    "present": "끄덕인다, 고개를 끄덕인다",
+    "past": "끄덕였다, 고개를 끄덕였다",
+    "progressive": "끄덕이고 있는, 고개를 끄덕이고 있는",
+    "pastParticiple": "끄덕인, 고개를 끄덕인"
+  },
+  "note": {
+    "base": "기록하다, 메모하다, 주목하다",
+    "present": "기록한다, 메모한다, 주목한다",
+    "past": "기록했다, 메모했다, 주목했다",
+    "progressive": "기록하고 있는, 메모하고 있는, 주목하고 있는",
+    "pastParticiple": "기록된, 메모된, 주목된"
+  },
+  "notice": {
+    "base": "알아차리다, 인지하다, 주목하다",
+    "present": "알아차린다, 인지한다, 주목한다",
+    "past": "알아차렸다, 인지했다, 주목했다",
+    "progressive": "알아차리고 있는, 인지하고 있는, 주목하고 있는",
+    "pastParticiple": "알아차린, 인지된, 주목된"
+  },
+  "number": {
+    "base": "번호를 매기다, 수를 세다, ~에 달하다",
+    "present": "번호를 매긴다, 수를 센다, ~에 달한다",
+    "past": "번호를 매겼다, 수를 셌다, ~에 달했다",
+    "progressive": "번호를 매기고 있는, 수를 세고 있는, ~에 달하고 있는",
+    "pastParticiple": "번호가 매겨진, 수가 세어진, ~에 달한"
+  },
+  "murder": {
+    "base": "살인하다, 살해하다",
+    "present": "살인한다, 살해한다",
+    "past": "살인했다, 살해했다",
+    "progressive": "살인하고 있는, 살해하고 있는",
+    "pastParticiple": "살인된, 살해된"
   }
 }
